@@ -27,11 +27,11 @@ I have used `UIKit` for user interface creation, `RxSwift` allows me to use feat
 
 |             Articles List         |         ArticleDetail          | 
 |---------------------------------|------------------------------|
-|![Demo]()|![Demo]()|
+|![Demo](https://github.com/moazsaeed/NyTimesCloneApp/blob/master/screenshots/articleListWhite.png)|![Demo](https://github.com/moazsaeed/NyTimesCloneApp/blob/master/screenshots/articleDetailWhite.png)|
 
 ## Architecture at a Glance
 
-![Architecture at a Glance]()
+![Architecture at a Glance](https://github.com/moazsaeed/NyTimesCloneApp/blob/master/Architecture/mvvm.png)
 
 ## Requirements
 
