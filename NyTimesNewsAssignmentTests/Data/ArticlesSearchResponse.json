@@ -1,0 +1,5633 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+  "response": {
+    "docs": [
+      {
+        "abstract": "The United Arab Emirates, in a nod to global markets, has changed its workweek, declaring that Sunday, a work day in much of the Arab world, is now part of the weekend. Fridays will be half days.",
+        "web_url": "https://www.nytimes.com/2021/12/07/world/middleeast/uae-weekend-shift.html",
+        "snippet": "The United Arab Emirates, in a nod to global markets, has changed its workweek, declaring that Sunday, a work day in much of the Arab world, is now part of the weekend. Fridays will be half days.",
+        "lead_paragraph": "CAIRO â€” The United Arab Emirates, a hub of international commerce, announced Tuesday that it would shift its weekends to bring them more in line with the Western calendar and global markets, once again showing its willingness to part ways with its Arab neighbors.",
+        "print_section": "B",
+        "print_page": "4",
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "rank": 0,
+            "subtype": "xlarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              "xlarge": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-articleLarge.jpg",
+              "xlargewidth": 600,
+              "xlargeheight": 400
+            },
+            "subType": "xlarge",
+            "crop_name": "articleLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "popup",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-popup.jpg",
+            "height": 433,
+            "width": 650,
+            "legacy": {
+              
+            },
+            "subType": "popup",
+            "crop_name": "popup"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog480",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-blog480.jpg",
+            "height": 320,
+            "width": 480,
+            "legacy": {
+              
+            },
+            "subType": "blog480",
+            "crop_name": "blog480"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog533",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-blog533.jpg",
+            "height": 355,
+            "width": 533,
+            "legacy": {
+              
+            },
+            "subType": "blog533",
+            "crop_name": "blog533"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog427",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-blog427.jpg",
+            "height": 285,
+            "width": 427,
+            "legacy": {
+              
+            },
+            "subType": "blog427",
+            "crop_name": "blog427"
+          },
+          {
+            "rank": 0,
+            "subtype": "tmagSF",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-tmagSF.jpg",
+            "height": 241,
+            "width": 362,
+            "legacy": {
+              
+            },
+            "subType": "tmagSF",
+            "crop_name": "tmagSF"
+          },
+          {
+            "rank": 0,
+            "subtype": "tmagArticle",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-tmagArticle.jpg",
+            "height": 395,
+            "width": 592,
+            "legacy": {
+              
+            },
+            "subType": "tmagArticle",
+            "crop_name": "tmagArticle"
+          },
+          {
+            "rank": 0,
+            "subtype": "slide",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-slide.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "slide",
+            "crop_name": "slide"
+          },
+          {
+            "rank": 0,
+            "subtype": "jumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-jumbo.jpg",
+            "height": 683,
+            "width": 1024,
+            "legacy": {
+              
+            },
+            "subType": "jumbo",
+            "crop_name": "jumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "superJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-superJumbo.jpg",
+            "height": 1366,
+            "width": 2048,
+            "legacy": {
+              
+            },
+            "subType": "superJumbo",
+            "crop_name": "superJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-blog225.jpg",
+            "height": 150,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "blog225",
+            "crop_name": "blog225"
+          },
+          {
+            "rank": 0,
+            "subtype": "master1050",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-master1050.jpg",
+            "height": 700,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "master1050",
+            "crop_name": "master1050"
+          },
+          {
+            "rank": 0,
+            "subtype": "master675",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-master675.jpg",
+            "height": 450,
+            "width": 675,
+            "legacy": {
+              
+            },
+            "subType": "master675",
+            "crop_name": "master675"
+          },
+          {
+            "rank": 0,
+            "subtype": "master495",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-master495.jpg",
+            "height": 330,
+            "width": 495,
+            "legacy": {
+              
+            },
+            "subType": "master495",
+            "crop_name": "master495"
+          },
+          {
+            "rank": 0,
+            "subtype": "master180",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-master180.jpg",
+            "height": 120,
+            "width": 180,
+            "legacy": {
+              
+            },
+            "subType": "master180",
+            "crop_name": "master180"
+          },
+          {
+            "rank": 0,
+            "subtype": "master315",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-master315.jpg",
+            "height": 210,
+            "width": 315,
+            "legacy": {
+              
+            },
+            "subType": "master315",
+            "crop_name": "master315"
+          },
+          {
+            "rank": 0,
+            "subtype": "master768",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-master768.jpg",
+            "height": 512,
+            "width": 768,
+            "legacy": {
+              
+            },
+            "subType": "master768",
+            "crop_name": "master768"
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbnail",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnail": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-thumbStandard.jpg",
+              "thumbnailwidth": 75,
+              "thumbnailheight": 75
+            },
+            "subType": "thumbnail",
+            "crop_name": "thumbStandard"
+          },
+          {
+            "rank": 0,
+            "subtype": "blogSmallThumb",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-blogSmallThumb.jpg",
+            "height": 50,
+            "width": 50,
+            "legacy": {
+              
+            },
+            "subType": "blogSmallThumb",
+            "crop_name": "blogSmallThumb"
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-thumbLarge.jpg",
+            "height": 150,
+            "width": 150,
+            "legacy": {
+              
+            },
+            "subType": "thumbLarge",
+            "crop_name": "thumbLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "smallSquare168",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-smallSquare168.jpg",
+            "height": 168,
+            "width": 168,
+            "legacy": {
+              
+            },
+            "subType": "smallSquare168",
+            "crop_name": "smallSquare168"
+          },
+          {
+            "rank": 0,
+            "subtype": "smallSquare252",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-smallSquare252.jpg",
+            "height": 252,
+            "width": 252,
+            "legacy": {
+              
+            },
+            "subType": "smallSquare252",
+            "crop_name": "smallSquare252"
+          },
+          {
+            "rank": 0,
+            "subtype": "square320",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-square320.jpg",
+            "height": 320,
+            "width": 320,
+            "legacy": {
+              
+            },
+            "subType": "square320",
+            "crop_name": "square320"
+          },
+          {
+            "rank": 0,
+            "subtype": "moth",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-moth.jpg",
+            "height": 151,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "moth",
+            "crop_name": "moth"
+          },
+          {
+            "rank": 0,
+            "subtype": "filmstrip",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-filmstrip.jpg",
+            "height": 190,
+            "width": 190,
+            "legacy": {
+              
+            },
+            "subType": "filmstrip",
+            "crop_name": "filmstrip"
+          },
+          {
+            "rank": 0,
+            "subtype": "square640",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-square640.jpg",
+            "height": 640,
+            "width": 640,
+            "legacy": {
+              
+            },
+            "subType": "square640",
+            "crop_name": "square640"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumSquare149",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-mediumSquare149.jpg",
+            "height": 149,
+            "width": 149,
+            "legacy": {
+              
+            },
+            "subType": "mediumSquare149",
+            "crop_name": "mediumSquare149"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumSquareAt3X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-mediumSquareAt3X.jpg",
+            "height": 1800,
+            "width": 1800,
+            "legacy": {
+              
+            },
+            "subType": "mediumSquareAt3X",
+            "crop_name": "mediumSquareAt3X"
+          },
+          {
+            "rank": 0,
+            "subtype": "sfSpan",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-sfSpan.jpg",
+            "height": 263,
+            "width": 395,
+            "legacy": {
+              
+            },
+            "subType": "sfSpan",
+            "crop_name": "sfSpan"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeHorizontal375",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-largeHorizontal375.jpg",
+            "height": 250,
+            "width": 375,
+            "legacy": {
+              
+            },
+            "subType": "largeHorizontal375",
+            "crop_name": "largeHorizontal375"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeHorizontalJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-largeHorizontalJumbo.jpg",
+            "height": 683,
+            "width": 1024,
+            "legacy": {
+              
+            },
+            "subType": "largeHorizontalJumbo",
+            "crop_name": "largeHorizontalJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "horizontalMediumAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-horizontalMediumAt2X.jpg",
+            "height": 5310,
+            "width": 7964,
+            "legacy": {
+              
+            },
+            "subType": "horizontalMediumAt2X",
+            "crop_name": "horizontalMediumAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "hpLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-hpLarge.jpg",
+            "height": 287,
+            "width": 511,
+            "legacy": {
+              
+            },
+            "subType": "hpLarge",
+            "crop_name": "hpLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeWidescreen573",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-largeWidescreen573.jpg",
+            "height": 322,
+            "width": 573,
+            "legacy": {
+              
+            },
+            "subType": "largeWidescreen573",
+            "crop_name": "largeWidescreen573"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeWidescreen1050",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-largeWidescreen1050.jpg",
+            "height": 591,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "largeWidescreen1050",
+            "crop_name": "largeWidescreen1050"
+          },
+          {
+            "rank": 0,
+            "subtype": "wide",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "widewidth": 190,
+              "wideheight": 126,
+              "wide": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-thumbWide.jpg"
+            },
+            "subType": "wide",
+            "crop_name": "thumbWide"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoThumb",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoThumb.jpg",
+            "height": 50,
+            "width": 75,
+            "legacy": {
+              
+            },
+            "subType": "videoThumb",
+            "crop_name": "videoThumb"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoLarge.jpg",
+            "height": 507,
+            "width": 768,
+            "legacy": {
+              
+            },
+            "subType": "videoLarge",
+            "crop_name": "videoLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo210",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-mediumThreeByTwo210.jpg",
+            "height": 140,
+            "width": 210,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo210",
+            "crop_name": "mediumThreeByTwo210"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-mediumThreeByTwo225.jpg",
+            "height": 150,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo225",
+            "crop_name": "mediumThreeByTwo225"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo440",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-mediumThreeByTwo440.jpg",
+            "height": 293,
+            "width": 440,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo440",
+            "crop_name": "mediumThreeByTwo440"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo252",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-mediumThreeByTwo252.jpg",
+            "height": 168,
+            "width": 252,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo252",
+            "crop_name": "mediumThreeByTwo252"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo378",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-mediumThreeByTwo378.jpg",
+            "height": 252,
+            "width": 378,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo378",
+            "crop_name": "mediumThreeByTwo378"
+          },
+          {
+            "rank": 0,
+            "subtype": "threeByTwoLargeAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-threeByTwoLargeAt2X.jpg",
+            "height": 5310,
+            "width": 7964,
+            "legacy": {
+              
+            },
+            "subType": "threeByTwoLargeAt2X",
+            "crop_name": "threeByTwoLargeAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "threeByTwoMediumAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-threeByTwoMediumAt2X.jpg",
+            "height": 1000,
+            "width": 1500,
+            "legacy": {
+              
+            },
+            "subType": "threeByTwoMediumAt2X",
+            "crop_name": "threeByTwoMediumAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "threeByTwoSmallAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-threeByTwoSmallAt2X.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "threeByTwoSmallAt2X",
+            "crop_name": "threeByTwoSmallAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "articleInline",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-articleInline.jpg",
+            "height": 127,
+            "width": 190,
+            "legacy": {
+              
+            },
+            "subType": "articleInline",
+            "crop_name": "articleInline"
+          },
+          {
+            "rank": 0,
+            "subtype": "hpSmall",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-hpSmall.jpg",
+            "height": 109,
+            "width": 163,
+            "legacy": {
+              
+            },
+            "subType": "hpSmall",
+            "crop_name": "hpSmall"
+          },
+          {
+            "rank": 0,
+            "subtype": "blogSmallInline",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-blogSmallInline.jpg",
+            "height": 101,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "blogSmallInline",
+            "crop_name": "blogSmallInline"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumFlexible177",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-mediumFlexible177.jpg",
+            "height": 118,
+            "width": 177,
+            "legacy": {
+              
+            },
+            "subType": "mediumFlexible177",
+            "crop_name": "mediumFlexible177"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSmall",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSmall.jpg",
+            "height": 281,
+            "width": 500,
+            "legacy": {
+              
+            },
+            "subType": "videoSmall",
+            "crop_name": "videoSmall"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoHpMedium",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoHpMedium.jpg",
+            "height": 211,
+            "width": 375,
+            "legacy": {
+              
+            },
+            "subType": "videoHpMedium",
+            "crop_name": "videoHpMedium"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine600",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNine600.jpg",
+            "height": 338,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine600",
+            "crop_name": "videoSixteenByNine600"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine540",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNine540.jpg",
+            "height": 304,
+            "width": 540,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine540",
+            "crop_name": "videoSixteenByNine540"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine495",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNine495.jpg",
+            "height": 278,
+            "width": 495,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine495",
+            "crop_name": "videoSixteenByNine495"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine390",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNine390.jpg",
+            "height": 219,
+            "width": 390,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine390",
+            "crop_name": "videoSixteenByNine390"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine1050",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNine1050.jpg",
+            "height": 591,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine1050",
+            "crop_name": "videoSixteenByNine1050"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine480",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNine480.jpg",
+            "height": 270,
+            "width": 480,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine480",
+            "crop_name": "videoSixteenByNine480"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine310",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNine310.jpg",
+            "height": 174,
+            "width": 310,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine310",
+            "crop_name": "videoSixteenByNine310"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNine225.jpg",
+            "height": 126,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine225",
+            "crop_name": "videoSixteenByNine225"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine96",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNine96.jpg",
+            "height": 54,
+            "width": 96,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine96",
+            "crop_name": "videoSixteenByNine96"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine3000",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNine3000.jpg",
+            "height": 1688,
+            "width": 3000,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine3000",
+            "crop_name": "videoSixteenByNine3000"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine768",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNine768.jpg",
+            "height": 432,
+            "width": 768,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine768",
+            "crop_name": "videoSixteenByNine768"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine150",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNine150.jpg",
+            "height": 84,
+            "width": 150,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine150",
+            "crop_name": "videoSixteenByNine150"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNineJumbo1600",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoSixteenByNineJumbo1600.jpg",
+            "height": 900,
+            "width": 1600,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNineJumbo1600",
+            "crop_name": "videoSixteenByNineJumbo1600"
+          },
+          {
+            "rank": 0,
+            "subtype": "miniMoth",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-miniMoth.jpg",
+            "height": 70,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "miniMoth",
+            "crop_name": "miniMoth"
+          },
+          {
+            "rank": 0,
+            "subtype": "windowsTile336H",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-windowsTile336H.jpg",
+            "height": 336,
+            "width": 694,
+            "legacy": {
+              
+            },
+            "subType": "windowsTile336H",
+            "crop_name": "windowsTile336H"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoFifteenBySeven1305",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoFifteenBySeven1305.jpg",
+            "height": 609,
+            "width": 1305,
+            "legacy": {
+              
+            },
+            "subType": "videoFifteenBySeven1305",
+            "crop_name": "videoFifteenBySeven1305"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoFifteenBySeven2610",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-videoFifteenBySeven2610.jpg",
+            "height": 1218,
+            "width": 2610,
+            "legacy": {
+              
+            },
+            "subType": "videoFifteenBySeven2610",
+            "crop_name": "videoFifteenBySeven2610"
+          },
+          {
+            "rank": 0,
+            "subtype": "facebookJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-facebookJumbo.jpg",
+            "height": 550,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "facebookJumbo",
+            "crop_name": "facebookJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "watch308",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-watch308.jpg",
+            "height": 348,
+            "width": 312,
+            "legacy": {
+              
+            },
+            "subType": "watch308",
+            "crop_name": "watch308"
+          },
+          {
+            "rank": 0,
+            "subtype": "watch268",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-watch268.jpg",
+            "height": 303,
+            "width": 272,
+            "legacy": {
+              
+            },
+            "subType": "watch268",
+            "crop_name": "watch268"
+          },
+          {
+            "rank": 0,
+            "subtype": "verticalTwoByThree735",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-verticalTwoByThree735.jpg",
+            "height": 1103,
+            "width": 735,
+            "legacy": {
+              
+            },
+            "subType": "verticalTwoByThree735",
+            "crop_name": "verticalTwoByThree735"
+          },
+          {
+            "rank": 0,
+            "subtype": "mobileMasterAt3x",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/12/08/multimedia/07uae-weekend-print/07uae-weekend-mobileMasterAt3x.jpg",
+            "height": 1800,
+            "width": 1800,
+            "legacy": {
+              
+            },
+            "subType": "mobileMasterAt3x",
+            "crop_name": "mobileMasterAt3x"
+          }
+        ],
+        "headline": {
+          "main": "Sundays Off: U.A.E. Changes Its Weekend to Align With West",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "In Nod to Global Markets, U.A.E. Shifts Its Workweek",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "United Arab Emirates",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Labor and Jobs",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Dubai (United Arab Emirates)",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Abu Dhabi (United Arab Emirates)",
+            "rank": 4,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2021-12-07T22:04:34+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "original": "By Mona El-Naggar",
+          "person": [
+            {
+              "firstname": "Mona",
+              "middlename": null,
+              "lastname": "El-Naggar",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/be3cee73-ba12-5694-9403-3baf0d9347bc",
+        "word_count": 677,
+        "uri": "nyt://article/be3cee73-ba12-5694-9403-3baf0d9347bc"
+      },
+      {
+        "abstract": "They are all among the leaders in the Race to Dubai, and a victory in this tournament could put one of them on top.",
+        "web_url": "https://www.nytimes.com/2021/11/17/sports/golf/race-to-dubai-players.html",
+        "snippet": "They are all among the leaders in the Race to Dubai, and a victory in this tournament could put one of them on top.",
+        "lead_paragraph": "The European Tour winds down for the year this week at the DP World Tour Championship, Dubai with a close battle over who will win the Race to Dubai and be crowned the No. 1 golfer in Europe.",
+        "print_section": "A",
+        "print_page": "11",
+        "source": "International New York Times",
+        "multimedia": [
+          {
+            "rank": 0,
+            "subtype": "xlarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              "xlarge": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-articleLarge.jpg",
+              "xlargewidth": 600,
+              "xlargeheight": 400
+            },
+            "subType": "xlarge",
+            "crop_name": "articleLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "popup",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-popup.jpg",
+            "height": 434,
+            "width": 650,
+            "legacy": {
+              
+            },
+            "subType": "popup",
+            "crop_name": "popup"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog480",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-blog480.jpg",
+            "height": 320,
+            "width": 480,
+            "legacy": {
+              
+            },
+            "subType": "blog480",
+            "crop_name": "blog480"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog533",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-blog533.jpg",
+            "height": 356,
+            "width": 533,
+            "legacy": {
+              
+            },
+            "subType": "blog533",
+            "crop_name": "blog533"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog427",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-blog427.jpg",
+            "height": 285,
+            "width": 427,
+            "legacy": {
+              
+            },
+            "subType": "blog427",
+            "crop_name": "blog427"
+          },
+          {
+            "rank": 0,
+            "subtype": "tmagSF",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-tmagSF.jpg",
+            "height": 241,
+            "width": 362,
+            "legacy": {
+              
+            },
+            "subType": "tmagSF",
+            "crop_name": "tmagSF"
+          },
+          {
+            "rank": 0,
+            "subtype": "tmagArticle",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-tmagArticle.jpg",
+            "height": 395,
+            "width": 592,
+            "legacy": {
+              
+            },
+            "subType": "tmagArticle",
+            "crop_name": "tmagArticle"
+          },
+          {
+            "rank": 0,
+            "subtype": "slide",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-slide.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "slide",
+            "crop_name": "slide"
+          },
+          {
+            "rank": 0,
+            "subtype": "jumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-jumbo.jpg",
+            "height": 683,
+            "width": 1024,
+            "legacy": {
+              
+            },
+            "subType": "jumbo",
+            "crop_name": "jumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "superJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-superJumbo.jpg",
+            "height": 1366,
+            "width": 2048,
+            "legacy": {
+              
+            },
+            "subType": "superJumbo",
+            "crop_name": "superJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-blog225.jpg",
+            "height": 150,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "blog225",
+            "crop_name": "blog225"
+          },
+          {
+            "rank": 0,
+            "subtype": "master1050",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-master1050.jpg",
+            "height": 700,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "master1050",
+            "crop_name": "master1050"
+          },
+          {
+            "rank": 0,
+            "subtype": "master675",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-master675.jpg",
+            "height": 450,
+            "width": 675,
+            "legacy": {
+              
+            },
+            "subType": "master675",
+            "crop_name": "master675"
+          },
+          {
+            "rank": 0,
+            "subtype": "master495",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-master495.jpg",
+            "height": 330,
+            "width": 495,
+            "legacy": {
+              
+            },
+            "subType": "master495",
+            "crop_name": "master495"
+          },
+          {
+            "rank": 0,
+            "subtype": "master180",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-master180.jpg",
+            "height": 120,
+            "width": 180,
+            "legacy": {
+              
+            },
+            "subType": "master180",
+            "crop_name": "master180"
+          },
+          {
+            "rank": 0,
+            "subtype": "master315",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-master315.jpg",
+            "height": 210,
+            "width": 315,
+            "legacy": {
+              
+            },
+            "subType": "master315",
+            "crop_name": "master315"
+          },
+          {
+            "rank": 0,
+            "subtype": "master768",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-master768.jpg",
+            "height": 512,
+            "width": 768,
+            "legacy": {
+              
+            },
+            "subType": "master768",
+            "crop_name": "master768"
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbnail",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnail": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-thumbStandard.jpg",
+              "thumbnailwidth": 75,
+              "thumbnailheight": 75
+            },
+            "subType": "thumbnail",
+            "crop_name": "thumbStandard"
+          },
+          {
+            "rank": 0,
+            "subtype": "blogSmallThumb",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-blogSmallThumb.jpg",
+            "height": 50,
+            "width": 50,
+            "legacy": {
+              
+            },
+            "subType": "blogSmallThumb",
+            "crop_name": "blogSmallThumb"
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-thumbLarge.jpg",
+            "height": 150,
+            "width": 150,
+            "legacy": {
+              
+            },
+            "subType": "thumbLarge",
+            "crop_name": "thumbLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "smallSquare168",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-smallSquare168.jpg",
+            "height": 168,
+            "width": 168,
+            "legacy": {
+              
+            },
+            "subType": "smallSquare168",
+            "crop_name": "smallSquare168"
+          },
+          {
+            "rank": 0,
+            "subtype": "smallSquare252",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-smallSquare252.jpg",
+            "height": 252,
+            "width": 252,
+            "legacy": {
+              
+            },
+            "subType": "smallSquare252",
+            "crop_name": "smallSquare252"
+          },
+          {
+            "rank": 0,
+            "subtype": "square320",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-square320.jpg",
+            "height": 320,
+            "width": 320,
+            "legacy": {
+              
+            },
+            "subType": "square320",
+            "crop_name": "square320"
+          },
+          {
+            "rank": 0,
+            "subtype": "moth",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-moth.jpg",
+            "height": 151,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "moth",
+            "crop_name": "moth"
+          },
+          {
+            "rank": 0,
+            "subtype": "filmstrip",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-filmstrip.jpg",
+            "height": 190,
+            "width": 190,
+            "legacy": {
+              
+            },
+            "subType": "filmstrip",
+            "crop_name": "filmstrip"
+          },
+          {
+            "rank": 0,
+            "subtype": "square640",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-square640.jpg",
+            "height": 640,
+            "width": 640,
+            "legacy": {
+              
+            },
+            "subType": "square640",
+            "crop_name": "square640"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumSquare149",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-mediumSquare149.jpg",
+            "height": 149,
+            "width": 149,
+            "legacy": {
+              
+            },
+            "subType": "mediumSquare149",
+            "crop_name": "mediumSquare149"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumSquareAt3X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-mediumSquareAt3X.jpg",
+            "height": 1801,
+            "width": 1800,
+            "legacy": {
+              
+            },
+            "subType": "mediumSquareAt3X",
+            "crop_name": "mediumSquareAt3X"
+          },
+          {
+            "rank": 0,
+            "subtype": "sfSpan",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-sfSpan.jpg",
+            "height": 263,
+            "width": 395,
+            "legacy": {
+              
+            },
+            "subType": "sfSpan",
+            "crop_name": "sfSpan"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeHorizontal375",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-largeHorizontal375.jpg",
+            "height": 250,
+            "width": 375,
+            "legacy": {
+              
+            },
+            "subType": "largeHorizontal375",
+            "crop_name": "largeHorizontal375"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeHorizontalJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-largeHorizontalJumbo.jpg",
+            "height": 683,
+            "width": 1024,
+            "legacy": {
+              
+            },
+            "subType": "largeHorizontalJumbo",
+            "crop_name": "largeHorizontalJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "horizontalMediumAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-horizontalMediumAt2X.jpg",
+            "height": 4213,
+            "width": 6316,
+            "legacy": {
+              
+            },
+            "subType": "horizontalMediumAt2X",
+            "crop_name": "horizontalMediumAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "hpLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-hpLarge.jpg",
+            "height": 288,
+            "width": 511,
+            "legacy": {
+              
+            },
+            "subType": "hpLarge",
+            "crop_name": "hpLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeWidescreen573",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-largeWidescreen573.jpg",
+            "height": 322,
+            "width": 573,
+            "legacy": {
+              
+            },
+            "subType": "largeWidescreen573",
+            "crop_name": "largeWidescreen573"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeWidescreen1050",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-largeWidescreen1050.jpg",
+            "height": 591,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "largeWidescreen1050",
+            "crop_name": "largeWidescreen1050"
+          },
+          {
+            "rank": 0,
+            "subtype": "wide",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "widewidth": 190,
+              "wideheight": 126,
+              "wide": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-thumbWide.jpg"
+            },
+            "subType": "wide",
+            "crop_name": "thumbWide"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoThumb",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoThumb.jpg",
+            "height": 50,
+            "width": 75,
+            "legacy": {
+              
+            },
+            "subType": "videoThumb",
+            "crop_name": "videoThumb"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoLarge.jpg",
+            "height": 507,
+            "width": 768,
+            "legacy": {
+              
+            },
+            "subType": "videoLarge",
+            "crop_name": "videoLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo210",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-mediumThreeByTwo210.jpg",
+            "height": 140,
+            "width": 210,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo210",
+            "crop_name": "mediumThreeByTwo210"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-mediumThreeByTwo225.jpg",
+            "height": 150,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo225",
+            "crop_name": "mediumThreeByTwo225"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo440",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-mediumThreeByTwo440.jpg",
+            "height": 293,
+            "width": 440,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo440",
+            "crop_name": "mediumThreeByTwo440"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo252",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-mediumThreeByTwo252.jpg",
+            "height": 168,
+            "width": 252,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo252",
+            "crop_name": "mediumThreeByTwo252"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo378",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-mediumThreeByTwo378.jpg",
+            "height": 252,
+            "width": 378,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo378",
+            "crop_name": "mediumThreeByTwo378"
+          },
+          {
+            "rank": 0,
+            "subtype": "threeByTwoLargeAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-threeByTwoLargeAt2X.jpg",
+            "height": 4213,
+            "width": 6316,
+            "legacy": {
+              
+            },
+            "subType": "threeByTwoLargeAt2X",
+            "crop_name": "threeByTwoLargeAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "threeByTwoMediumAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-threeByTwoMediumAt2X.jpg",
+            "height": 1001,
+            "width": 1500,
+            "legacy": {
+              
+            },
+            "subType": "threeByTwoMediumAt2X",
+            "crop_name": "threeByTwoMediumAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "threeByTwoSmallAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-threeByTwoSmallAt2X.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "threeByTwoSmallAt2X",
+            "crop_name": "threeByTwoSmallAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "articleInline",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-articleInline.jpg",
+            "height": 127,
+            "width": 190,
+            "legacy": {
+              
+            },
+            "subType": "articleInline",
+            "crop_name": "articleInline"
+          },
+          {
+            "rank": 0,
+            "subtype": "hpSmall",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-hpSmall.jpg",
+            "height": 109,
+            "width": 163,
+            "legacy": {
+              
+            },
+            "subType": "hpSmall",
+            "crop_name": "hpSmall"
+          },
+          {
+            "rank": 0,
+            "subtype": "blogSmallInline",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-blogSmallInline.jpg",
+            "height": 101,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "blogSmallInline",
+            "crop_name": "blogSmallInline"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumFlexible177",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-mediumFlexible177.jpg",
+            "height": 118,
+            "width": 177,
+            "legacy": {
+              
+            },
+            "subType": "mediumFlexible177",
+            "crop_name": "mediumFlexible177"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSmall",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSmall.jpg",
+            "height": 281,
+            "width": 500,
+            "legacy": {
+              
+            },
+            "subType": "videoSmall",
+            "crop_name": "videoSmall"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoHpMedium",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoHpMedium.jpg",
+            "height": 211,
+            "width": 375,
+            "legacy": {
+              
+            },
+            "subType": "videoHpMedium",
+            "crop_name": "videoHpMedium"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine600",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNine600.jpg",
+            "height": 338,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine600",
+            "crop_name": "videoSixteenByNine600"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine540",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNine540.jpg",
+            "height": 304,
+            "width": 540,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine540",
+            "crop_name": "videoSixteenByNine540"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine495",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNine495.jpg",
+            "height": 278,
+            "width": 495,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine495",
+            "crop_name": "videoSixteenByNine495"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine390",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNine390.jpg",
+            "height": 219,
+            "width": 390,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine390",
+            "crop_name": "videoSixteenByNine390"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine1050",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNine1050.jpg",
+            "height": 591,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine1050",
+            "crop_name": "videoSixteenByNine1050"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine480",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNine480.jpg",
+            "height": 270,
+            "width": 480,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine480",
+            "crop_name": "videoSixteenByNine480"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine310",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNine310.jpg",
+            "height": 174,
+            "width": 310,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine310",
+            "crop_name": "videoSixteenByNine310"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNine225.jpg",
+            "height": 126,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine225",
+            "crop_name": "videoSixteenByNine225"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine96",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNine96.jpg",
+            "height": 54,
+            "width": 96,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine96",
+            "crop_name": "videoSixteenByNine96"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine3000",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNine3000.jpg",
+            "height": 1688,
+            "width": 3000,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine3000",
+            "crop_name": "videoSixteenByNine3000"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine768",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNine768.jpg",
+            "height": 432,
+            "width": 768,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine768",
+            "crop_name": "videoSixteenByNine768"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine150",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNine150.jpg",
+            "height": 84,
+            "width": 150,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine150",
+            "crop_name": "videoSixteenByNine150"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNineJumbo1600",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-videoSixteenByNineJumbo1600.jpg",
+            "height": 900,
+            "width": 1600,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNineJumbo1600",
+            "crop_name": "videoSixteenByNineJumbo1600"
+          },
+          {
+            "rank": 0,
+            "subtype": "miniMoth",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/merlin_195702357_dfc3a18c-729c-43dc-8e76-2511e8dc61ae-miniMoth.jpg",
+            "height": 70,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "miniMoth",
+            "crop_name": "miniMoth"
+          },
+          {
+            "rank": 0,
+            "subtype": "windowsTile336H",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/merlin_195702357_dfc3a18c-729c-43dc-8e76-2511e8dc61ae-windowsTile336H.jpg",
+            "height": 336,
+            "width": 694,
+            "legacy": {
+              
+            },
+            "subType": "windowsTile336H",
+            "crop_name": "windowsTile336H"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoFifteenBySeven1305",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/merlin_195702357_dfc3a18c-729c-43dc-8e76-2511e8dc61ae-videoFifteenBySeven1305.jpg",
+            "height": 609,
+            "width": 1305,
+            "legacy": {
+              
+            },
+            "subType": "videoFifteenBySeven1305",
+            "crop_name": "videoFifteenBySeven1305"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoFifteenBySeven2610",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/merlin_195702357_dfc3a18c-729c-43dc-8e76-2511e8dc61ae-videoFifteenBySeven2610.jpg",
+            "height": 1218,
+            "width": 2610,
+            "legacy": {
+              
+            },
+            "subType": "videoFifteenBySeven2610",
+            "crop_name": "videoFifteenBySeven2610"
+          },
+          {
+            "rank": 0,
+            "subtype": "facebookJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/merlin_195702357_dfc3a18c-729c-43dc-8e76-2511e8dc61ae-facebookJumbo.jpg",
+            "height": 550,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "facebookJumbo",
+            "crop_name": "facebookJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "watch308",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-watch308.jpg",
+            "height": 348,
+            "width": 312,
+            "legacy": {
+              
+            },
+            "subType": "watch308",
+            "crop_name": "watch308"
+          },
+          {
+            "rank": 0,
+            "subtype": "watch268",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-watch268.jpg",
+            "height": 304,
+            "width": 272,
+            "legacy": {
+              
+            },
+            "subType": "watch268",
+            "crop_name": "watch268"
+          },
+          {
+            "rank": 0,
+            "subtype": "verticalTwoByThree735",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-verticalTwoByThree735.jpg",
+            "height": 1103,
+            "width": 735,
+            "legacy": {
+              
+            },
+            "subType": "verticalTwoByThree735",
+            "crop_name": "verticalTwoByThree735"
+          },
+          {
+            "rank": 0,
+            "subtype": "mobileMasterAt3x",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-players-inyt1/18sp-dubai-players-inyt1-mobileMasterAt3x.jpg",
+            "height": 1201,
+            "width": 1800,
+            "legacy": {
+              
+            },
+            "subType": "mobileMasterAt3x",
+            "crop_name": "mobileMasterAt3x"
+          }
+        ],
+        "headline": {
+          "main": "Race to Dubai Players to Watch",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "The five players to watch",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "Golf",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Bland, Richard (1973- )",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Fitzpatrick, Matthew (1994- )",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Morikawa, Collin (1997- )",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Rahm, Jon (1994- )",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Zalatoris, Will (1996- )",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Dubai (United Arab Emirates)",
+            "rank": 7,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Content Type: Personal Profile",
+            "rank": 8,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2021-11-17T10:02:46+0000",
+        "document_type": "article",
+        "news_desk": "SpecialSections",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "original": "By John Clarke",
+          "person": [
+            {
+              "firstname": "John",
+              "middlename": null,
+              "lastname": "Clarke",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/fc24ec6d-2334-5906-953e-803eb84342ba",
+        "word_count": 910,
+        "uri": "nyt://article/fc24ec6d-2334-5906-953e-803eb84342ba"
+      },
+      {
+        "abstract": "He has won the BMW PGA Championship and is now close to winning the European Tourâ€™s Race to Dubai.",
+        "web_url": "https://www.nytimes.com/2021/11/17/sports/golf/billy-horschel-pga-european-tours.html",
+        "snippet": "He has won the BMW PGA Championship and is now close to winning the European Tourâ€™s Race to Dubai.",
+        "lead_paragraph": "Billy Horschel of the United States, ranked 20th in the world golf rankings, enters the DP World Tour Championship, Dubai this week in second place in the Race to Dubai, the season-long points race on the European Tour. To win it all, he will have to pass fellow American Collin Morikawa, ranked second in the world and leading the Race to Dubai.",
+        "print_section": "A",
+        "print_page": "11",
+        "source": "International New York Times",
+        "multimedia": [
+          {
+            "rank": 0,
+            "subtype": "xlarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              "xlarge": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-articleLarge.jpg",
+              "xlargewidth": 600,
+              "xlargeheight": 400
+            },
+            "subType": "xlarge",
+            "crop_name": "articleLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "popup",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-popup.jpg",
+            "height": 433,
+            "width": 650,
+            "legacy": {
+              
+            },
+            "subType": "popup",
+            "crop_name": "popup"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog480",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-blog480.jpg",
+            "height": 320,
+            "width": 480,
+            "legacy": {
+              
+            },
+            "subType": "blog480",
+            "crop_name": "blog480"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog533",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-blog533.jpg",
+            "height": 355,
+            "width": 533,
+            "legacy": {
+              
+            },
+            "subType": "blog533",
+            "crop_name": "blog533"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog427",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-blog427.jpg",
+            "height": 285,
+            "width": 427,
+            "legacy": {
+              
+            },
+            "subType": "blog427",
+            "crop_name": "blog427"
+          },
+          {
+            "rank": 0,
+            "subtype": "tmagSF",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-tmagSF.jpg",
+            "height": 241,
+            "width": 362,
+            "legacy": {
+              
+            },
+            "subType": "tmagSF",
+            "crop_name": "tmagSF"
+          },
+          {
+            "rank": 0,
+            "subtype": "tmagArticle",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-tmagArticle.jpg",
+            "height": 395,
+            "width": 592,
+            "legacy": {
+              
+            },
+            "subType": "tmagArticle",
+            "crop_name": "tmagArticle"
+          },
+          {
+            "rank": 0,
+            "subtype": "slide",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-slide.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "slide",
+            "crop_name": "slide"
+          },
+          {
+            "rank": 0,
+            "subtype": "jumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-jumbo.jpg",
+            "height": 683,
+            "width": 1024,
+            "legacy": {
+              
+            },
+            "subType": "jumbo",
+            "crop_name": "jumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "superJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-superJumbo.jpg",
+            "height": 1365,
+            "width": 2048,
+            "legacy": {
+              
+            },
+            "subType": "superJumbo",
+            "crop_name": "superJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-blog225.jpg",
+            "height": 150,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "blog225",
+            "crop_name": "blog225"
+          },
+          {
+            "rank": 0,
+            "subtype": "master1050",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-master1050.jpg",
+            "height": 700,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "master1050",
+            "crop_name": "master1050"
+          },
+          {
+            "rank": 0,
+            "subtype": "master675",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-master675.jpg",
+            "height": 450,
+            "width": 675,
+            "legacy": {
+              
+            },
+            "subType": "master675",
+            "crop_name": "master675"
+          },
+          {
+            "rank": 0,
+            "subtype": "master495",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-master495.jpg",
+            "height": 330,
+            "width": 495,
+            "legacy": {
+              
+            },
+            "subType": "master495",
+            "crop_name": "master495"
+          },
+          {
+            "rank": 0,
+            "subtype": "master180",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-master180.jpg",
+            "height": 120,
+            "width": 180,
+            "legacy": {
+              
+            },
+            "subType": "master180",
+            "crop_name": "master180"
+          },
+          {
+            "rank": 0,
+            "subtype": "master315",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-master315.jpg",
+            "height": 210,
+            "width": 315,
+            "legacy": {
+              
+            },
+            "subType": "master315",
+            "crop_name": "master315"
+          },
+          {
+            "rank": 0,
+            "subtype": "master768",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-master768.jpg",
+            "height": 512,
+            "width": 768,
+            "legacy": {
+              
+            },
+            "subType": "master768",
+            "crop_name": "master768"
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbnail",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnail": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-thumbStandard.jpg",
+              "thumbnailwidth": 75,
+              "thumbnailheight": 75
+            },
+            "subType": "thumbnail",
+            "crop_name": "thumbStandard"
+          },
+          {
+            "rank": 0,
+            "subtype": "blogSmallThumb",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-blogSmallThumb.jpg",
+            "height": 50,
+            "width": 50,
+            "legacy": {
+              
+            },
+            "subType": "blogSmallThumb",
+            "crop_name": "blogSmallThumb"
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-thumbLarge.jpg",
+            "height": 150,
+            "width": 150,
+            "legacy": {
+              
+            },
+            "subType": "thumbLarge",
+            "crop_name": "thumbLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "smallSquare168",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-smallSquare168.jpg",
+            "height": 168,
+            "width": 168,
+            "legacy": {
+              
+            },
+            "subType": "smallSquare168",
+            "crop_name": "smallSquare168"
+          },
+          {
+            "rank": 0,
+            "subtype": "smallSquare252",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-smallSquare252.jpg",
+            "height": 252,
+            "width": 252,
+            "legacy": {
+              
+            },
+            "subType": "smallSquare252",
+            "crop_name": "smallSquare252"
+          },
+          {
+            "rank": 0,
+            "subtype": "square320",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-square320.jpg",
+            "height": 320,
+            "width": 320,
+            "legacy": {
+              
+            },
+            "subType": "square320",
+            "crop_name": "square320"
+          },
+          {
+            "rank": 0,
+            "subtype": "moth",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-moth.jpg",
+            "height": 151,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "moth",
+            "crop_name": "moth"
+          },
+          {
+            "rank": 0,
+            "subtype": "filmstrip",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-filmstrip.jpg",
+            "height": 190,
+            "width": 190,
+            "legacy": {
+              
+            },
+            "subType": "filmstrip",
+            "crop_name": "filmstrip"
+          },
+          {
+            "rank": 0,
+            "subtype": "square640",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-square640.jpg",
+            "height": 640,
+            "width": 640,
+            "legacy": {
+              
+            },
+            "subType": "square640",
+            "crop_name": "square640"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumSquare149",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-mediumSquare149.jpg",
+            "height": 149,
+            "width": 149,
+            "legacy": {
+              
+            },
+            "subType": "mediumSquare149",
+            "crop_name": "mediumSquare149"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumSquareAt3X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-mediumSquareAt3X.jpg",
+            "height": 1800,
+            "width": 1800,
+            "legacy": {
+              
+            },
+            "subType": "mediumSquareAt3X",
+            "crop_name": "mediumSquareAt3X"
+          },
+          {
+            "rank": 0,
+            "subtype": "sfSpan",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-sfSpan.jpg",
+            "height": 263,
+            "width": 395,
+            "legacy": {
+              
+            },
+            "subType": "sfSpan",
+            "crop_name": "sfSpan"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeHorizontal375",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-largeHorizontal375.jpg",
+            "height": 250,
+            "width": 375,
+            "legacy": {
+              
+            },
+            "subType": "largeHorizontal375",
+            "crop_name": "largeHorizontal375"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeHorizontalJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-largeHorizontalJumbo.jpg",
+            "height": 683,
+            "width": 1024,
+            "legacy": {
+              
+            },
+            "subType": "largeHorizontalJumbo",
+            "crop_name": "largeHorizontalJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "horizontalMediumAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-horizontalMediumAt2X.jpg",
+            "height": 2000,
+            "width": 3000,
+            "legacy": {
+              
+            },
+            "subType": "horizontalMediumAt2X",
+            "crop_name": "horizontalMediumAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "hpLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-hpLarge.jpg",
+            "height": 287,
+            "width": 511,
+            "legacy": {
+              
+            },
+            "subType": "hpLarge",
+            "crop_name": "hpLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeWidescreen573",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-largeWidescreen573.jpg",
+            "height": 322,
+            "width": 573,
+            "legacy": {
+              
+            },
+            "subType": "largeWidescreen573",
+            "crop_name": "largeWidescreen573"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeWidescreen1050",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-largeWidescreen1050.jpg",
+            "height": 590,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "largeWidescreen1050",
+            "crop_name": "largeWidescreen1050"
+          },
+          {
+            "rank": 0,
+            "subtype": "wide",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "widewidth": 190,
+              "wideheight": 126,
+              "wide": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-thumbWide.jpg"
+            },
+            "subType": "wide",
+            "crop_name": "thumbWide"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoThumb",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoThumb.jpg",
+            "height": 50,
+            "width": 75,
+            "legacy": {
+              
+            },
+            "subType": "videoThumb",
+            "crop_name": "videoThumb"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoLarge.jpg",
+            "height": 507,
+            "width": 768,
+            "legacy": {
+              
+            },
+            "subType": "videoLarge",
+            "crop_name": "videoLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo210",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-mediumThreeByTwo210.jpg",
+            "height": 140,
+            "width": 210,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo210",
+            "crop_name": "mediumThreeByTwo210"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-mediumThreeByTwo225.jpg",
+            "height": 150,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo225",
+            "crop_name": "mediumThreeByTwo225"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo440",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-mediumThreeByTwo440.jpg",
+            "height": 293,
+            "width": 440,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo440",
+            "crop_name": "mediumThreeByTwo440"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo252",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-mediumThreeByTwo252.jpg",
+            "height": 168,
+            "width": 252,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo252",
+            "crop_name": "mediumThreeByTwo252"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo378",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-mediumThreeByTwo378.jpg",
+            "height": 252,
+            "width": 378,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo378",
+            "crop_name": "mediumThreeByTwo378"
+          },
+          {
+            "rank": 0,
+            "subtype": "threeByTwoLargeAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-threeByTwoLargeAt2X.jpg",
+            "height": 1189,
+            "width": 1783,
+            "legacy": {
+              
+            },
+            "subType": "threeByTwoLargeAt2X",
+            "crop_name": "threeByTwoLargeAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "threeByTwoMediumAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-threeByTwoMediumAt2X.jpg",
+            "height": 1000,
+            "width": 1500,
+            "legacy": {
+              
+            },
+            "subType": "threeByTwoMediumAt2X",
+            "crop_name": "threeByTwoMediumAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "threeByTwoSmallAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-threeByTwoSmallAt2X.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "threeByTwoSmallAt2X",
+            "crop_name": "threeByTwoSmallAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "articleInline",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-articleInline.jpg",
+            "height": 127,
+            "width": 190,
+            "legacy": {
+              
+            },
+            "subType": "articleInline",
+            "crop_name": "articleInline"
+          },
+          {
+            "rank": 0,
+            "subtype": "hpSmall",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-hpSmall.jpg",
+            "height": 109,
+            "width": 163,
+            "legacy": {
+              
+            },
+            "subType": "hpSmall",
+            "crop_name": "hpSmall"
+          },
+          {
+            "rank": 0,
+            "subtype": "blogSmallInline",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-blogSmallInline.jpg",
+            "height": 101,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "blogSmallInline",
+            "crop_name": "blogSmallInline"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumFlexible177",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-mediumFlexible177.jpg",
+            "height": 118,
+            "width": 177,
+            "legacy": {
+              
+            },
+            "subType": "mediumFlexible177",
+            "crop_name": "mediumFlexible177"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSmall",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSmall.jpg",
+            "height": 281,
+            "width": 500,
+            "legacy": {
+              
+            },
+            "subType": "videoSmall",
+            "crop_name": "videoSmall"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoHpMedium",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoHpMedium.jpg",
+            "height": 211,
+            "width": 375,
+            "legacy": {
+              
+            },
+            "subType": "videoHpMedium",
+            "crop_name": "videoHpMedium"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine600",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNine600.jpg",
+            "height": 338,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine600",
+            "crop_name": "videoSixteenByNine600"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine540",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNine540.jpg",
+            "height": 304,
+            "width": 540,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine540",
+            "crop_name": "videoSixteenByNine540"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine495",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNine495.jpg",
+            "height": 278,
+            "width": 495,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine495",
+            "crop_name": "videoSixteenByNine495"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine390",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNine390.jpg",
+            "height": 219,
+            "width": 390,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine390",
+            "crop_name": "videoSixteenByNine390"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine1050",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNine1050.jpg",
+            "height": 591,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine1050",
+            "crop_name": "videoSixteenByNine1050"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine480",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNine480.jpg",
+            "height": 270,
+            "width": 480,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine480",
+            "crop_name": "videoSixteenByNine480"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine310",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNine310.jpg",
+            "height": 174,
+            "width": 310,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine310",
+            "crop_name": "videoSixteenByNine310"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNine225.jpg",
+            "height": 126,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine225",
+            "crop_name": "videoSixteenByNine225"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine96",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNine96.jpg",
+            "height": 54,
+            "width": 96,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine96",
+            "crop_name": "videoSixteenByNine96"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine3000",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNine3000.jpg",
+            "height": 1687,
+            "width": 3000,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine3000",
+            "crop_name": "videoSixteenByNine3000"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine768",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNine768.jpg",
+            "height": 432,
+            "width": 768,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine768",
+            "crop_name": "videoSixteenByNine768"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine150",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNine150.jpg",
+            "height": 84,
+            "width": 150,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine150",
+            "crop_name": "videoSixteenByNine150"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNineJumbo1600",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoSixteenByNineJumbo1600.jpg",
+            "height": 900,
+            "width": 1600,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNineJumbo1600",
+            "crop_name": "videoSixteenByNineJumbo1600"
+          },
+          {
+            "rank": 0,
+            "subtype": "miniMoth",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-miniMoth.jpg",
+            "height": 70,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "miniMoth",
+            "crop_name": "miniMoth"
+          },
+          {
+            "rank": 0,
+            "subtype": "windowsTile336H",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-windowsTile336H.jpg",
+            "height": 336,
+            "width": 694,
+            "legacy": {
+              
+            },
+            "subType": "windowsTile336H",
+            "crop_name": "windowsTile336H"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoFifteenBySeven1305",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoFifteenBySeven1305.jpg",
+            "height": 609,
+            "width": 1305,
+            "legacy": {
+              
+            },
+            "subType": "videoFifteenBySeven1305",
+            "crop_name": "videoFifteenBySeven1305"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoFifteenBySeven2610",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-videoFifteenBySeven2610.jpg",
+            "height": 1218,
+            "width": 2610,
+            "legacy": {
+              
+            },
+            "subType": "videoFifteenBySeven2610",
+            "crop_name": "videoFifteenBySeven2610"
+          },
+          {
+            "rank": 0,
+            "subtype": "facebookJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-facebookJumbo.jpg",
+            "height": 550,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "facebookJumbo",
+            "crop_name": "facebookJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "watch308",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-watch308.jpg",
+            "height": 348,
+            "width": 312,
+            "legacy": {
+              
+            },
+            "subType": "watch308",
+            "crop_name": "watch308"
+          },
+          {
+            "rank": 0,
+            "subtype": "watch268",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-watch268.jpg",
+            "height": 303,
+            "width": 272,
+            "legacy": {
+              
+            },
+            "subType": "watch268",
+            "crop_name": "watch268"
+          },
+          {
+            "rank": 0,
+            "subtype": "verticalTwoByThree735",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/18sp-dubai-horschel-inyt2-verticalTwoByThree735.jpg",
+            "height": 1102,
+            "width": 735,
+            "legacy": {
+              
+            },
+            "subType": "verticalTwoByThree735",
+            "crop_name": "verticalTwoByThree735"
+          },
+          {
+            "rank": 0,
+            "subtype": "mobileMasterAt3x",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/18/multimedia/18sp-dubai-horschel-inyt2/merlin_194606895_ad9dc184-4579-44a8-94e9-1df16560e387-mobileMasterAt3x.jpg",
+            "height": 1200,
+            "width": 1800,
+            "legacy": {
+              
+            },
+            "subType": "mobileMasterAt3x",
+            "crop_name": "mobileMasterAt3x"
+          }
+        ],
+        "headline": {
+          "main": "The Two Worlds of Billy Horschel",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "Playing in 2 worlds",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "Golf",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Horschel, Billy",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "PGA Tour Inc",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Dubai (United Arab Emirates)",
+            "rank": 4,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2021-11-17T10:00:09+0000",
+        "document_type": "article",
+        "news_desk": "SpecialSections",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "original": "By Paul Sullivan",
+          "person": [
+            {
+              "firstname": "Paul",
+              "middlename": null,
+              "lastname": "Sullivan",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/aaf5bc29-2d8b-5f8c-86ba-eefa0700413e",
+        "word_count": 706,
+        "uri": "nyt://article/aaf5bc29-2d8b-5f8c-86ba-eefa0700413e"
+      },
+      {
+        "abstract": "When it came to the Dubai ports issue, the facts never really had a chance -- not in this political season. Still, it's hard to imagine a more ignorant, bogus, xenophobic, reckless debate than the one indulged in by both Republicans and Democrats around this question of whether an Arab-owned company might oversee loading and unloading services in some U.S. ports. If you had any doubts before, have none now: 9/11 has made us stupid.      We don't need any more pre-9/11 commissions. We need a post-9/11 commission, one that looks at all the big and little things we are doing -- from sanctioning torture to warrantless wiretaps to turning our embassies abroad into fortresses -- that over time could eat away at the core DNA of America.  ",
+        "web_url": "https://www.nytimes.com/2006/03/15/opinion/dubai-and-dunces.html",
+        "snippet": "When it came to the Dubai ports issue, the facts never really had a chance -- not in this political season. Still, it's hard to imagine a more ignorant, bogus, xenophobic, reckless debate than the one indulged in by both Republicans and Democrats ...",
+        "lead_paragraph": "When it came to the Dubai ports issue, the facts never really had a chance -- not in this political season. Still, it's hard to imagine a more ignorant, bogus, xenophobic, reckless debate than the one indulged in by both Republicans and Democrats around this question of whether an Arab-owned company might oversee loading and unloading services in some U.S. ports. If you had any doubts before, have none now: 9/11 has made us stupid.",
+        "print_section": "A",
+        "print_page": "27",
+        "source": "The New York Times",
+        "multimedia": [
+          
+        ],
+        "headline": {
+          "main": "Dubai and Dunces",
+          "kicker": "Op-Ed Columnist",
+          "content_kicker": null,
+          "print_headline": "Dubai And Dunces",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "Politics and Government",
+            "rank": 1,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2006-03-15T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Editorial Desk",
+        "section_name": "Opinion",
+        "byline": {
+          "original": "By Thomas L. Friedman",
+          "person": [
+            {
+              "firstname": "Thomas",
+              "middlename": "L.",
+              "lastname": "Friedman",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "nyt://article/9c9a6c0c-3282-5463-8c6f-b676fe1193e8",
+        "word_count": 801,
+        "uri": "nyt://article/9c9a6c0c-3282-5463-8c6f-b676fe1193e8"
+      },
+      {
+        "abstract": "Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk.",
+        "web_url": "https://www.nytimes.com/2021/11/14/world/middleeast/belarus-mideast-air-route.html",
+        "snippet": "Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk.",
+        "lead_paragraph": "Follow our live coverage of the migrant crisis at the Belarus-Poland border.",
+        "print_section": "A",
+        "print_page": "6",
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "rank": 0,
+            "subtype": "xlarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-articleLarge.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              "xlarge": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-articleLarge.jpg",
+              "xlargewidth": 600,
+              "xlargeheight": 400
+            },
+            "subType": "xlarge",
+            "crop_name": "articleLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "popup",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-popup.jpg",
+            "height": 433,
+            "width": 650,
+            "legacy": {
+              
+            },
+            "subType": "popup",
+            "crop_name": "popup"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog480",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-blog480.jpg",
+            "height": 320,
+            "width": 480,
+            "legacy": {
+              
+            },
+            "subType": "blog480",
+            "crop_name": "blog480"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog533",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-blog533.jpg",
+            "height": 355,
+            "width": 533,
+            "legacy": {
+              
+            },
+            "subType": "blog533",
+            "crop_name": "blog533"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog427",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-blog427.jpg",
+            "height": 285,
+            "width": 427,
+            "legacy": {
+              
+            },
+            "subType": "blog427",
+            "crop_name": "blog427"
+          },
+          {
+            "rank": 0,
+            "subtype": "tmagSF",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-tmagSF.jpg",
+            "height": 241,
+            "width": 362,
+            "legacy": {
+              
+            },
+            "subType": "tmagSF",
+            "crop_name": "tmagSF"
+          },
+          {
+            "rank": 0,
+            "subtype": "tmagArticle",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-tmagArticle.jpg",
+            "height": 395,
+            "width": 592,
+            "legacy": {
+              
+            },
+            "subType": "tmagArticle",
+            "crop_name": "tmagArticle"
+          },
+          {
+            "rank": 0,
+            "subtype": "slide",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-slide.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "slide",
+            "crop_name": "slide"
+          },
+          {
+            "rank": 0,
+            "subtype": "jumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-jumbo.jpg",
+            "height": 683,
+            "width": 1024,
+            "legacy": {
+              
+            },
+            "subType": "jumbo",
+            "crop_name": "jumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "superJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-superJumbo.jpg",
+            "height": 1365,
+            "width": 2048,
+            "legacy": {
+              
+            },
+            "subType": "superJumbo",
+            "crop_name": "superJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-blog225.jpg",
+            "height": 150,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "blog225",
+            "crop_name": "blog225"
+          },
+          {
+            "rank": 0,
+            "subtype": "master1050",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-master1050.jpg",
+            "height": 700,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "master1050",
+            "crop_name": "master1050"
+          },
+          {
+            "rank": 0,
+            "subtype": "master675",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-master675.jpg",
+            "height": 450,
+            "width": 675,
+            "legacy": {
+              
+            },
+            "subType": "master675",
+            "crop_name": "master675"
+          },
+          {
+            "rank": 0,
+            "subtype": "master495",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-master495.jpg",
+            "height": 330,
+            "width": 495,
+            "legacy": {
+              
+            },
+            "subType": "master495",
+            "crop_name": "master495"
+          },
+          {
+            "rank": 0,
+            "subtype": "master180",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-master180.jpg",
+            "height": 120,
+            "width": 180,
+            "legacy": {
+              
+            },
+            "subType": "master180",
+            "crop_name": "master180"
+          },
+          {
+            "rank": 0,
+            "subtype": "master315",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-master315.jpg",
+            "height": 210,
+            "width": 315,
+            "legacy": {
+              
+            },
+            "subType": "master315",
+            "crop_name": "master315"
+          },
+          {
+            "rank": 0,
+            "subtype": "master768",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-master768.jpg",
+            "height": 512,
+            "width": 768,
+            "legacy": {
+              
+            },
+            "subType": "master768",
+            "crop_name": "master768"
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbnail",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnail": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-thumbStandard.jpg",
+              "thumbnailwidth": 75,
+              "thumbnailheight": 75
+            },
+            "subType": "thumbnail",
+            "crop_name": "thumbStandard"
+          },
+          {
+            "rank": 0,
+            "subtype": "blogSmallThumb",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-blogSmallThumb.jpg",
+            "height": 50,
+            "width": 50,
+            "legacy": {
+              
+            },
+            "subType": "blogSmallThumb",
+            "crop_name": "blogSmallThumb"
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-thumbLarge.jpg",
+            "height": 150,
+            "width": 150,
+            "legacy": {
+              
+            },
+            "subType": "thumbLarge",
+            "crop_name": "thumbLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "smallSquare168",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-smallSquare168.jpg",
+            "height": 168,
+            "width": 168,
+            "legacy": {
+              
+            },
+            "subType": "smallSquare168",
+            "crop_name": "smallSquare168"
+          },
+          {
+            "rank": 0,
+            "subtype": "smallSquare252",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-smallSquare252.jpg",
+            "height": 252,
+            "width": 252,
+            "legacy": {
+              
+            },
+            "subType": "smallSquare252",
+            "crop_name": "smallSquare252"
+          },
+          {
+            "rank": 0,
+            "subtype": "square320",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-square320.jpg",
+            "height": 320,
+            "width": 320,
+            "legacy": {
+              
+            },
+            "subType": "square320",
+            "crop_name": "square320"
+          },
+          {
+            "rank": 0,
+            "subtype": "moth",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-moth.jpg",
+            "height": 151,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "moth",
+            "crop_name": "moth"
+          },
+          {
+            "rank": 0,
+            "subtype": "filmstrip",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-filmstrip.jpg",
+            "height": 190,
+            "width": 190,
+            "legacy": {
+              
+            },
+            "subType": "filmstrip",
+            "crop_name": "filmstrip"
+          },
+          {
+            "rank": 0,
+            "subtype": "square640",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-square640.jpg",
+            "height": 640,
+            "width": 640,
+            "legacy": {
+              
+            },
+            "subType": "square640",
+            "crop_name": "square640"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumSquare149",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-mediumSquare149.jpg",
+            "height": 149,
+            "width": 149,
+            "legacy": {
+              
+            },
+            "subType": "mediumSquare149",
+            "crop_name": "mediumSquare149"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumSquareAt3X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-mediumSquareAt3X.jpg",
+            "height": 1800,
+            "width": 1800,
+            "legacy": {
+              
+            },
+            "subType": "mediumSquareAt3X",
+            "crop_name": "mediumSquareAt3X"
+          },
+          {
+            "rank": 0,
+            "subtype": "sfSpan",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-sfSpan.jpg",
+            "height": 263,
+            "width": 395,
+            "legacy": {
+              
+            },
+            "subType": "sfSpan",
+            "crop_name": "sfSpan"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeHorizontal375",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-largeHorizontal375.jpg",
+            "height": 250,
+            "width": 375,
+            "legacy": {
+              
+            },
+            "subType": "largeHorizontal375",
+            "crop_name": "largeHorizontal375"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeHorizontalJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-largeHorizontalJumbo.jpg",
+            "height": 683,
+            "width": 1024,
+            "legacy": {
+              
+            },
+            "subType": "largeHorizontalJumbo",
+            "crop_name": "largeHorizontalJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "horizontalMediumAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-horizontalMediumAt2X.jpg",
+            "height": 3241,
+            "width": 4862,
+            "legacy": {
+              
+            },
+            "subType": "horizontalMediumAt2X",
+            "crop_name": "horizontalMediumAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "hpLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-hpLarge.jpg",
+            "height": 287,
+            "width": 511,
+            "legacy": {
+              
+            },
+            "subType": "hpLarge",
+            "crop_name": "hpLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeWidescreen573",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-largeWidescreen573.jpg",
+            "height": 322,
+            "width": 573,
+            "legacy": {
+              
+            },
+            "subType": "largeWidescreen573",
+            "crop_name": "largeWidescreen573"
+          },
+          {
+            "rank": 0,
+            "subtype": "largeWidescreen1050",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-largeWidescreen1050.jpg",
+            "height": 591,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "largeWidescreen1050",
+            "crop_name": "largeWidescreen1050"
+          },
+          {
+            "rank": 0,
+            "subtype": "wide",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-thumbWide.jpg",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "widewidth": 190,
+              "wideheight": 126,
+              "wide": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-thumbWide.jpg"
+            },
+            "subType": "wide",
+            "crop_name": "thumbWide"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoThumb",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-videoThumb.jpg",
+            "height": 50,
+            "width": 75,
+            "legacy": {
+              
+            },
+            "subType": "videoThumb",
+            "crop_name": "videoThumb"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-videoLarge.jpg",
+            "height": 507,
+            "width": 768,
+            "legacy": {
+              
+            },
+            "subType": "videoLarge",
+            "crop_name": "videoLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo210",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-mediumThreeByTwo210.jpg",
+            "height": 140,
+            "width": 210,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo210",
+            "crop_name": "mediumThreeByTwo210"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-mediumThreeByTwo225.jpg",
+            "height": 150,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo225",
+            "crop_name": "mediumThreeByTwo225"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo440",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-mediumThreeByTwo440.jpg",
+            "height": 293,
+            "width": 440,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo440",
+            "crop_name": "mediumThreeByTwo440"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo252",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-mediumThreeByTwo252.jpg",
+            "height": 168,
+            "width": 252,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo252",
+            "crop_name": "mediumThreeByTwo252"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo378",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-mediumThreeByTwo378.jpg",
+            "height": 252,
+            "width": 378,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo378",
+            "crop_name": "mediumThreeByTwo378"
+          },
+          {
+            "rank": 0,
+            "subtype": "threeByTwoLargeAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-threeByTwoLargeAt2X.jpg",
+            "height": 3241,
+            "width": 4862,
+            "legacy": {
+              
+            },
+            "subType": "threeByTwoLargeAt2X",
+            "crop_name": "threeByTwoLargeAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "threeByTwoMediumAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-threeByTwoMediumAt2X.jpg",
+            "height": 1000,
+            "width": 1500,
+            "legacy": {
+              
+            },
+            "subType": "threeByTwoMediumAt2X",
+            "crop_name": "threeByTwoMediumAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "threeByTwoSmallAt2X",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-threeByTwoSmallAt2X.jpg",
+            "height": 400,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "threeByTwoSmallAt2X",
+            "crop_name": "threeByTwoSmallAt2X"
+          },
+          {
+            "rank": 0,
+            "subtype": "articleInline",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-articleInline.jpg",
+            "height": 127,
+            "width": 190,
+            "legacy": {
+              
+            },
+            "subType": "articleInline",
+            "crop_name": "articleInline"
+          },
+          {
+            "rank": 0,
+            "subtype": "hpSmall",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-hpSmall.jpg",
+            "height": 109,
+            "width": 163,
+            "legacy": {
+              
+            },
+            "subType": "hpSmall",
+            "crop_name": "hpSmall"
+          },
+          {
+            "rank": 0,
+            "subtype": "blogSmallInline",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-blogSmallInline.jpg",
+            "height": 101,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "blogSmallInline",
+            "crop_name": "blogSmallInline"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumFlexible177",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/merlin_197824158_ab0cfa7f-e932-412e-8924-ba2313b7a377-mediumFlexible177.jpg",
+            "height": 118,
+            "width": 177,
+            "legacy": {
+              
+            },
+            "subType": "mediumFlexible177",
+            "crop_name": "mediumFlexible177"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSmall",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSmall.jpg",
+            "height": 281,
+            "width": 500,
+            "legacy": {
+              
+            },
+            "subType": "videoSmall",
+            "crop_name": "videoSmall"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoHpMedium",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoHpMedium.jpg",
+            "height": 211,
+            "width": 375,
+            "legacy": {
+              
+            },
+            "subType": "videoHpMedium",
+            "crop_name": "videoHpMedium"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine600",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNine600.jpg",
+            "height": 338,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine600",
+            "crop_name": "videoSixteenByNine600"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine540",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNine540.jpg",
+            "height": 304,
+            "width": 540,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine540",
+            "crop_name": "videoSixteenByNine540"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine495",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNine495.jpg",
+            "height": 278,
+            "width": 495,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine495",
+            "crop_name": "videoSixteenByNine495"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine390",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNine390.jpg",
+            "height": 219,
+            "width": 390,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine390",
+            "crop_name": "videoSixteenByNine390"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine1050",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNine1050.jpg",
+            "height": 591,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine1050",
+            "crop_name": "videoSixteenByNine1050"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine480",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNine480.jpg",
+            "height": 270,
+            "width": 480,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine480",
+            "crop_name": "videoSixteenByNine480"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine310",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNine310.jpg",
+            "height": 174,
+            "width": 310,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine310",
+            "crop_name": "videoSixteenByNine310"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNine225.jpg",
+            "height": 126,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine225",
+            "crop_name": "videoSixteenByNine225"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine96",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNine96.jpg",
+            "height": 54,
+            "width": 96,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine96",
+            "crop_name": "videoSixteenByNine96"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine3000",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNine3000.jpg",
+            "height": 1688,
+            "width": 3000,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine3000",
+            "crop_name": "videoSixteenByNine3000"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine768",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNine768.jpg",
+            "height": 432,
+            "width": 768,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine768",
+            "crop_name": "videoSixteenByNine768"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine150",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNine150.jpg",
+            "height": 84,
+            "width": 150,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine150",
+            "crop_name": "videoSixteenByNine150"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNineJumbo1600",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoSixteenByNineJumbo1600.jpg",
+            "height": 900,
+            "width": 1600,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNineJumbo1600",
+            "crop_name": "videoSixteenByNineJumbo1600"
+          },
+          {
+            "rank": 0,
+            "subtype": "miniMoth",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-miniMoth.jpg",
+            "height": 70,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "miniMoth",
+            "crop_name": "miniMoth"
+          },
+          {
+            "rank": 0,
+            "subtype": "windowsTile336H",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-windowsTile336H.jpg",
+            "height": 336,
+            "width": 694,
+            "legacy": {
+              
+            },
+            "subType": "windowsTile336H",
+            "crop_name": "windowsTile336H"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoFifteenBySeven1305",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoFifteenBySeven1305.jpg",
+            "height": 609,
+            "width": 1305,
+            "legacy": {
+              
+            },
+            "subType": "videoFifteenBySeven1305",
+            "crop_name": "videoFifteenBySeven1305"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoFifteenBySeven2610",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-videoFifteenBySeven2610.jpg",
+            "height": 1218,
+            "width": 2610,
+            "legacy": {
+              
+            },
+            "subType": "videoFifteenBySeven2610",
+            "crop_name": "videoFifteenBySeven2610"
+          },
+          {
+            "rank": 0,
+            "subtype": "facebookJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-facebookJumbo.jpg",
+            "height": 550,
+            "width": 1050,
+            "legacy": {
+              
+            },
+            "subType": "facebookJumbo",
+            "crop_name": "facebookJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "watch308",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-watch308.jpg",
+            "height": 348,
+            "width": 312,
+            "legacy": {
+              
+            },
+            "subType": "watch308",
+            "crop_name": "watch308"
+          },
+          {
+            "rank": 0,
+            "subtype": "watch268",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-watch268.jpg",
+            "height": 303,
+            "width": 272,
+            "legacy": {
+              
+            },
+            "subType": "watch268",
+            "crop_name": "watch268"
+          },
+          {
+            "rank": 0,
+            "subtype": "verticalTwoByThree735",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-verticalTwoByThree735.jpg",
+            "height": 1102,
+            "width": 735,
+            "legacy": {
+              
+            },
+            "subType": "verticalTwoByThree735",
+            "crop_name": "verticalTwoByThree735"
+          },
+          {
+            "rank": 0,
+            "subtype": "mobileMasterAt3x",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2021/11/14/world/14iraq-belarus1/14iraq-belarus1-mobileMasterAt3x.jpg",
+            "height": 1800,
+            "width": 1800,
+            "legacy": {
+              
+            },
+            "subType": "mobileMasterAt3x",
+            "crop_name": "mobileMasterAt3x"
+          }
+        ],
+        "headline": {
+          "main": "Air Route to Belarus Closed to Migrants in Bid to Halt Crisis",
+          "kicker": null,
+          "content_kicker": null,
+          "print_headline": "Air Route to Belarus Closed to Migrants in Bid to Halt Crisis",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "Belarus",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Dubai (United Arab Emirates)",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Immigration and Emigration",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "organizations",
+            "value": "European Union",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "AIRLINES AND AIRPLANES",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Poland",
+            "rank": 6,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Belarus-Poland Border Crisis (2021- )",
+            "rank": 7,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2021-11-14T20:23:46+0000",
+        "document_type": "article",
+        "news_desk": "Foreign",
+        "section_name": "World",
+        "subsection_name": "Middle East",
+        "byline": {
+          "original": "By Isabella Kwai and Monika Pronczuk",
+          "person": [
+            {
+              "firstname": "Isabella",
+              "middlename": null,
+              "lastname": "Kwai",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            },
+            {
+              "firstname": "Monika",
+              "middlename": null,
+              "lastname": "Pronczuk",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 2
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/403d06aa-ba4a-5404-9043-49e5006ec06a",
+        "word_count": 774,
+        "uri": "nyt://article/403d06aa-ba4a-5404-9043-49e5006ec06a"
+      },
+      {
+        "abstract": "On a visit to Dubai, several conversations pondered whether the crown jewel of the United Arab Emirates caused the Arab awakening.",
+        "web_url": "https://www.nytimes.com/2014/11/19/opinion/thomas-friedman-did-dubai-do-it.html",
+        "snippet": "On a visit to Dubai, several conversations pondered whether the crown jewel of the United Arab Emirates caused the Arab awakening.",
+        "lead_paragraph": "DUBAI, United Arab Emirates â€” Ever since the Arab awakening in late 2010, America has lurched from one policy response to another. We tried decapitation without invasion in Libya; it failed. We tried abdication in Syria; it failed. We tried democratization in Egypt, endorsing the election of the Muslim Brotherhood; it failed. We tried invasion, occupation, abdication and now re-intervention in Iraq and, although the jury is still out, only a fool would be optimistic.",
+        "print_section": "A",
+        "print_page": "25",
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "rank": 0,
+            "subtype": "wide",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbWide-v2.png",
+            "height": 126,
+            "width": 190,
+            "legacy": {
+              "widewidth": 190,
+              "wideheight": 126,
+              "wide": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbWide-v2.png"
+            },
+            "subType": "wide",
+            "crop_name": "thumbWide"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoThumb",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-videoThumb-v2.png",
+            "height": 50,
+            "width": 75,
+            "legacy": {
+              
+            },
+            "subType": "videoThumb",
+            "crop_name": "videoThumb"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo210",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-mediumThreeByTwo210-v2.png",
+            "height": 140,
+            "width": 210,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo210",
+            "crop_name": "mediumThreeByTwo210"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumThreeByTwo225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-mediumThreeByTwo225-v2.png",
+            "height": 150,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "mediumThreeByTwo225",
+            "crop_name": "mediumThreeByTwo225"
+          },
+          {
+            "rank": 0,
+            "subtype": "miniMoth",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-miniMoth-v2.png",
+            "height": 70,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "miniMoth",
+            "crop_name": "miniMoth"
+          },
+          {
+            "rank": 0,
+            "subtype": "jumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-jumbo-v2.png",
+            "height": 228,
+            "width": 228,
+            "legacy": {
+              
+            },
+            "subType": "jumbo",
+            "crop_name": "jumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "blog225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-blog225-v2.png",
+            "height": 225,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "blog225",
+            "crop_name": "blog225"
+          },
+          {
+            "rank": 0,
+            "subtype": "master180",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-master180-v2.png",
+            "height": 180,
+            "width": 180,
+            "legacy": {
+              
+            },
+            "subType": "master180",
+            "crop_name": "master180"
+          },
+          {
+            "rank": 0,
+            "subtype": "popup",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-popup-v2.png",
+            "height": 228,
+            "width": 228,
+            "legacy": {
+              
+            },
+            "subType": "popup",
+            "crop_name": "popup"
+          },
+          {
+            "rank": 0,
+            "subtype": "slide",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-slide-v2.png",
+            "height": 228,
+            "width": 228,
+            "legacy": {
+              
+            },
+            "subType": "slide",
+            "crop_name": "slide"
+          },
+          {
+            "rank": 0,
+            "subtype": "superJumbo",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-superJumbo-v2.png",
+            "height": 228,
+            "width": 228,
+            "legacy": {
+              
+            },
+            "subType": "superJumbo",
+            "crop_name": "superJumbo"
+          },
+          {
+            "rank": 0,
+            "subtype": "filmstrip",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-filmstrip-v2.png",
+            "height": 190,
+            "width": 190,
+            "legacy": {
+              
+            },
+            "subType": "filmstrip",
+            "crop_name": "filmstrip"
+          },
+          {
+            "rank": 0,
+            "subtype": "moth",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-moth-v2.png",
+            "height": 151,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "moth",
+            "crop_name": "moth"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumSquare149",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-mediumSquare149-v2.png",
+            "height": 149,
+            "width": 149,
+            "legacy": {
+              
+            },
+            "subType": "mediumSquare149",
+            "crop_name": "mediumSquare149"
+          },
+          {
+            "rank": 0,
+            "subtype": "articleInline",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-articleInline-v2.png",
+            "height": 190,
+            "width": 190,
+            "legacy": {
+              
+            },
+            "subType": "articleInline",
+            "crop_name": "articleInline"
+          },
+          {
+            "rank": 0,
+            "subtype": "hpSmall",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-hpSmall-v2.png",
+            "height": 163,
+            "width": 163,
+            "legacy": {
+              
+            },
+            "subType": "hpSmall",
+            "crop_name": "hpSmall"
+          },
+          {
+            "rank": 0,
+            "subtype": "blogSmallInline",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-blogSmallInline-v2.png",
+            "height": 151,
+            "width": 151,
+            "legacy": {
+              
+            },
+            "subType": "blogSmallInline",
+            "crop_name": "blogSmallInline"
+          },
+          {
+            "rank": 0,
+            "subtype": "mediumFlexible177",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-mediumFlexible177-v2.png",
+            "height": 177,
+            "width": 177,
+            "legacy": {
+              
+            },
+            "subType": "mediumFlexible177",
+            "crop_name": "mediumFlexible177"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine225",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-videoSixteenByNine225-v2.png",
+            "height": 126,
+            "width": 225,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine225",
+            "crop_name": "videoSixteenByNine225"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine96",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-videoSixteenByNine96-v2.png",
+            "height": 54,
+            "width": 96,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine96",
+            "crop_name": "videoSixteenByNine96"
+          },
+          {
+            "rank": 0,
+            "subtype": "videoSixteenByNine150",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-videoSixteenByNine150-v2.png",
+            "height": 84,
+            "width": 150,
+            "legacy": {
+              
+            },
+            "subType": "videoSixteenByNine150",
+            "crop_name": "videoSixteenByNine150"
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbnail",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbStandard-v2.png",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnail": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbStandard-v2.png",
+              "thumbnailwidth": 75,
+              "thumbnailheight": 75
+            },
+            "subType": "thumbnail",
+            "crop_name": "thumbStandard"
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbLarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-thumbLarge.png",
+            "height": 150,
+            "width": 150,
+            "legacy": {
+              
+            },
+            "subType": "thumbLarge",
+            "crop_name": "thumbLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "blogSmallThumb",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-blogSmallThumb-v2.png",
+            "height": 50,
+            "width": 50,
+            "legacy": {
+              
+            },
+            "subType": "blogSmallThumb",
+            "crop_name": "blogSmallThumb"
+          },
+          {
+            "rank": 0,
+            "subtype": "smallSquare168",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2014/11/01/opinion/friedman-circular/friedman-circular-smallSquare168.png",
+            "height": 168,
+            "width": 168,
+            "legacy": {
+              
+            },
+            "subType": "smallSquare168",
+            "crop_name": "smallSquare168"
+          }
+        ],
+        "headline": {
+          "main": "Did Dubai Do It? ",
+          "kicker": "Op-Ed Columnist",
+          "content_kicker": null,
+          "print_headline": "Did Dubai Do It?",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "Friedman, Thomas L",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Dubai (United Arab Emirates)",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "United Arab Emirates",
+            "rank": 3,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Middle East and North Africa Unrest (2010- )",
+            "rank": 4,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "United States International Relations",
+            "rank": 5,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "Middle East",
+            "rank": 6,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2014-11-19T01:03:55+0000",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "byline": {
+          "original": "By Thomas L. Friedman",
+          "person": [
+            {
+              "firstname": "Thomas",
+              "middlename": "L.",
+              "lastname": "Friedman",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "Op-Ed",
+        "_id": "nyt://article/5f98b0de-e998-5315-9c80-536c69747bc9",
+        "word_count": 911,
+        "uri": "nyt://article/5f98b0de-e998-5315-9c80-536c69747bc9"
+      },
+      {
+        "abstract": "The defending champion Novak Djokovic led Mikhail Youzhny, 7-5, 2-0, before the Dubai Championship final was postponed because of rain.",
+        "web_url": "https://www.nytimes.com/2010/02/28/sports/tennis/28sportsbriefs-dubai.html",
+        "snippet": "The defending champion Novak Djokovic led Mikhail Youzhny, 7-5, 2-0, before the Dubai Championship final was postponed because of rain.",
+        "lead_paragraph": "The defending champion Novak Djokovic led Mikhail Youzhny, 7-5, 2-0, before the Dubai Championship final was postponed because of rain. Djokovic, the No. 2 seed, was serving at 30-15 in the third game of the second set when rain forced the final to be rescheduled for Sunday. ",
+        "print_section": "SP",
+        "print_page": "12",
+        "source": "The New York Times",
+        "multimedia": [
+          
+        ],
+        "headline": {
+          "main": "Djokovic Leads in Dubai",
+          "kicker": "Sports Briefing | Tennis",
+          "content_kicker": null,
+          "print_headline": "Djokovic Leads In Dubai",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "subject",
+            "value": "Tennis",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Youzhny, Mikhail",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "persons",
+            "value": "Djokovic, Novak",
+            "rank": 3,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2010-02-28T01:49:18+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Tennis",
+        "byline": {
+          "original": "By Michael S. Schmidt and David Waldstein",
+          "person": [
+            {
+              "firstname": "Michael",
+              "middlename": "S.",
+              "lastname": "Schmidt",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            },
+            {
+              "firstname": "David",
+              "middlename": null,
+              "lastname": "Waldstein",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 2
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "Brief",
+        "_id": "nyt://article/cf3a5952-9d1c-5271-82ff-6e5d6162b547",
+        "word_count": 47,
+        "uri": "nyt://article/cf3a5952-9d1c-5271-82ff-6e5d6162b547"
+      },
+      {
+        "abstract": "Iben Tinning of Denmark shot a five-under-par 67 to take a one-shot lead after three rounds of the Dubai Ladies Masters, the season-ending tournament on the Ladies European Tour. She was at nine-under 207 entering Sundayâ€™s final round, with Annika Sorenstam, Laura Davies and Veronica Zorzi at 208.",
+        "web_url": "https://www.nytimes.com/2007/12/16/sports/golf/16sportsbriefs-LPGA.html",
+        "snippet": "Iben Tinning of Denmark shot a five-under-par 67 to take a one-shot lead after three rounds of the Dubai Ladies Masters, the season-ending tournament on the Ladies European Tour. She was at nine-under 207 entering Sundayâ€™s final round, with Annika...",
+        "lead_paragraph": "Iben Tinning of Denmark shot a five-under-par 67 to take a one-shot lead after three rounds of the Dubai Ladies Masters, the season-ending tournament on the Ladies European Tour. She was at nine-under 207 entering Sundayâ€™s final round, with Annika Sorenstam, Laura Davies and Veronica Zorzi at 208.",
+        "print_section": "SP",
+        "print_page": "12",
+        "source": "The New York Times",
+        "multimedia": [
+          
+        ],
+        "headline": {
+          "main": "Tinning Leads in Dubai",
+          "kicker": "Sports Briefing  | Golf",
+          "content_kicker": null,
+          "print_headline": "Tinning Leads In Dubai",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "Tinning, Iben",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Golf",
+            "rank": 2,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2007-12-16T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "original": "By AP",
+          "person": [
+            
+          ],
+          "organization": "AP"
+        },
+        "type_of_material": "Brief",
+        "_id": "nyt://article/e067da4e-03f3-53a0-a8d0-503a9b5a4cb5",
+        "word_count": 50,
+        "uri": "nyt://article/e067da4e-03f3-53a0-a8d0-503a9b5a4cb5"
+      },
+      {
+        "abstract": "The Musandam Peninsula of Oman is an Arabian land of pristine seas, jagged peaks and, for the moment, few tourists.",
+        "web_url": "https://www.nytimes.com/2008/03/16/travel/16surfacing.html",
+        "snippet": "The Musandam Peninsula of Oman is an Arabian land of pristine seas, jagged peaks and, for the moment, few tourists.",
+        "lead_paragraph": "DRIVING along a rocky red cliff, with deep canyons yawning below, one could be forgiven for mistaking this rugged place for Utah. But this is the Musandam Peninsula of Oman, an Arabian land of pristine seas, jagged peaks and, for the moment, few tourists. But its proximity to booming Dubai, just two hours south, and a modern road means more development is on its way.",
+        "print_section": "TR",
+        "print_page": "4",
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "rank": 0,
+            "subtype": "xlarge",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2008/03/16/travel/16surf600.1.jpg",
+            "height": 300,
+            "width": 600,
+            "legacy": {
+              "xlarge": "images/2008/03/16/travel/16surf600.1.jpg",
+              "xlargewidth": 600,
+              "xlargeheight": 300
+            },
+            "subType": "xlarge",
+            "crop_name": "articleLarge"
+          },
+          {
+            "rank": 0,
+            "subtype": "popup",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2008/03/16/travel/16surf600.1.jpg",
+            "height": 300,
+            "width": 600,
+            "legacy": {
+              
+            },
+            "subType": "popup",
+            "crop_name": "popup"
+          },
+          {
+            "rank": 0,
+            "subtype": "sfSpan",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2008/03/16/travel/16surf395.1.jpg",
+            "height": 263,
+            "width": 395,
+            "legacy": {
+              
+            },
+            "subType": "sfSpan",
+            "crop_name": "sfSpan"
+          },
+          {
+            "rank": 0,
+            "subtype": "thumbnail",
+            "caption": null,
+            "credit": null,
+            "type": "image",
+            "url": "images/2008/03/16/travel/16surf75.1.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnail": "images/2008/03/16/travel/16surf75.1.jpg",
+              "thumbnailwidth": 75,
+              "thumbnailheight": 75
+            },
+            "subType": "thumbnail",
+            "crop_name": "thumbStandard"
+          }
+        ],
+        "headline": {
+          "main": "The Anti-Dubai (for Now)",
+          "kicker": "Surfacing | Khasab, Oman",
+          "content_kicker": null,
+          "print_headline": "The Anti-Dubai (For Now)",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "glocations",
+            "value": "Oman",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "HOTELS AND MOTELS",
+            "rank": 2,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2008-03-16T04:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "byline": {
+          "original": "By Sharon Otterman",
+          "person": [
+            {
+              "firstname": "Sharon",
+              "middlename": null,
+              "lastname": "Otterman",
+              "qualifier": null,
+              "title": null,
+              "role": "reported",
+              "organization": "",
+              "rank": 1
+            }
+          ],
+          "organization": null
+        },
+        "type_of_material": "News",
+        "_id": "nyt://article/1a779570-5d91-5850-ad64-79baa5aea8b1",
+        "word_count": 587,
+        "uri": "nyt://article/1a779570-5d91-5850-ad64-79baa5aea8b1"
+      },
+      {
+        "abstract": "Tiger Woods managed it all â€” the wind blowing, the sand swirling and the photographers clicking.He shot a one-under-par 71 Friday, making birdies on two of the last three holes, for a one-stroke lead halfway through the Dubai Desert Classic. Woods was at eight-under 136. He also won in Dubai in 2006. Damien McGrane, who is ranked 319th and has never won as a professional, shot a 69 and was a stroke behind. He will be paired with Woods in the third round Saturday at Emirates Golf Club.Wind gusts reaching 30 miles an hour shook the bunkers and desert terrain. Sand flew in faces and created a haze masking many of the skyscrapers usually seen towering over the course. Woods wore sunglasses but said he was still â€œchewing sand all day.â€The defending champion, Henrik Stenson of Sweden, shot a 70 and was two strokes behind. He shared third place with Thomas Levet of France, who had a 71.",
+        "web_url": "https://www.nytimes.com/2008/02/02/sports/golf/02sportsbriefs-Dubai.html",
+        "snippet": "Tiger Woods managed it all â€” the wind blowing, the sand swirling and the photographers clicking.He shot a one-under-par 71 Friday, making birdies on two of the last three holes, for a one-stroke lead halfway through the Dubai Desert Classic. Woods...",
+        "lead_paragraph": "Tiger Woods managed it all Â— the wind blowing, the sand swirling and the photographers clicking.He shot a one-under-par 71 Friday, making birdies on two of the last three holes, for a one-stroke lead halfway through the Dubai Desert Classic. Woods was at eight-under 136. He also won in Dubai in 2006. Damien McGrane, who is ranked 319th and has never won as a professional, shot a 69 and was a stroke behind. He will be paired with Woods in the third round Saturday at Emirates Golf Club.Wind gusts reaching 30 miles an hour shook the bunkers and desert terrain. Sand flew in faces and created a haze masking many of the skyscrapers usually seen towering over the course. Woods wore sunglasses but said he was still â€œchewing sand all day.â€The defending champion, Henrik Stenson of Sweden, shot a 70 and was two strokes behind. He shared third place with Thomas Levet of France, who had a 71.",
+        "print_section": "D",
+        "print_page": "2",
+        "source": "The New York Times",
+        "multimedia": [
+          
+        ],
+        "headline": {
+          "main": "Woods Leads in Dubai",
+          "kicker": "Sports Briefing  | Golf",
+          "content_kicker": null,
+          "print_headline": "Woods Leads In Dubai",
+          "name": null,
+          "seo": null,
+          "sub": null
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "Woods, Tiger",
+            "rank": 1,
+            "major": "N"
+          },
+          {
+            "name": "glocations",
+            "value": "DUBAI",
+            "rank": 2,
+            "major": "N"
+          },
+          {
+            "name": "subject",
+            "value": "Golf",
+            "rank": 3,
+            "major": "N"
+          }
+        ],
+        "pub_date": "2008-02-02T05:00:00+0000",
+        "document_type": "article",
+        "news_desk": "Sports",
+        "section_name": "Sports",
+        "subsection_name": "Golf",
+        "byline": {
+          "original": "By AP",
+          "person": [
+            
+          ],
+          "organization": "AP"
+        },
+        "type_of_material": "Brief",
+        "_id": "nyt://article/faf1018a-617c-5423-aad3-2769db534dde",
+        "word_count": 161,
+        "uri": "nyt://article/faf1018a-617c-5423-aad3-2769db534dde"
+      }
+    ],
+    "meta": {
+      "hits": 10804,
+      "offset": 10,
+      "time": 23
+    }
+  }
+}

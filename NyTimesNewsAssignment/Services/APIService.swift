@@ -9,7 +9,7 @@ import Alamofire
 
 protocol APIServiceProtocol {
     
-    func fetchArticlesWithSearchKeyword(_ searchKeyword:String, page:Int, completion: @escaping (ArticlesSearchResponse?, Error?, AFDataResponse<Any>?) -> Void) -> DataRequestProtocol
+    @discardableResult func fetchArticlesWithSearchKeyword(_ searchKeyword:String, page:Int, completion: @escaping (ArticlesSearchResponse?, Error?, AFDataResponse<Any>?) -> Void) -> DataRequestProtocol
 }
 
 extension APIServiceProtocol {
@@ -46,16 +46,6 @@ class APIService: APIServiceProtocol {
                     completion(nil, error, responseData)
                 }
             }
-        
-//        DispatchQueue.global().async {
-//
-//            let path = Bundle.main.path(forResource: "ArticleSearchSample", ofType: "json")!
-//            let data = try! Data(contentsOf: URL(fileURLWithPath: path))
-//            let decoder = JSONDecoder()
-//            decoder.dateDecodingStrategy = .iso8601
-//            let articleResponse = try! decoder.decode(ArticlesSearchResponse.self, from: data)
-//            completion(articleResponse, nil, nil)
-//        }
         
     }
 }

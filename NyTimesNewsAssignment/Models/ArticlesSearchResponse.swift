@@ -7,7 +7,8 @@
 
 import Foundation
 
-struct ArticlesSearchResponse {
+struct ArticlesSearchResponse: Equatable {
+    
     
     enum ResponseCodingKeys: String, CodingKey {
         case response = "response"

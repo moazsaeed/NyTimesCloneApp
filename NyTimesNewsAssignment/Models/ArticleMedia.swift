@@ -8,7 +8,7 @@
 import Foundation
 
 
-struct ArticleMedia  {
+struct ArticleMedia: Equatable  {
     let mediaType:String?
     let url:String?
     

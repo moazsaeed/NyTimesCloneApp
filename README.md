@@ -18,3 +18,6 @@ fetching the data from https://developer.nytimes.com
 2. run command pod install to install the dependencies
 3. Run the project
 
+## Limitations
+API has limitations for number of request... you can create your own api-key on api portal
+

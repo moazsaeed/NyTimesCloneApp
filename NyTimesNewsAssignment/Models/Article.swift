@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Article {
+struct Article: Equatable {
     
     enum CodingKeys: String, CodingKey {
         
