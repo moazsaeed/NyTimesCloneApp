@@ -57,7 +57,7 @@ I have used `UIKit` for user interface creation, `RxSwift` allows me to use feat
 - Run the project
 
 ## Tests
-
+I have added test only for model classes. Because of limitaiton of Time.
 To run tests using xcodebuild.
 
 - open xcode
