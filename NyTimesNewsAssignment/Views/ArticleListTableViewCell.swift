@@ -23,6 +23,10 @@ class ArticleListTableViewCell: UITableViewCell {
     override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
         super.init(style: style, reuseIdentifier: reuseIdentifier)
         
+        setup()
+    }
+    
+    func setup() {
         setupViews()
         setupListeners()
     }
@@ -41,6 +45,7 @@ class ArticleListTableViewCell: UITableViewCell {
         selectionStyle = .none
     }
     
+    //here setting the listners to receive events for UI UPdate
     func setupListeners() {
         disposeBag = DisposeBag()
         

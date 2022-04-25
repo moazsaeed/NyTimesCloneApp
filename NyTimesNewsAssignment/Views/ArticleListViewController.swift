@@ -17,6 +17,10 @@ class ArticleListViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        setup()
+    }
+    
+    func setup() {
         self.navigationItem.title = "NewYork Times"
         // Do any additional setup after loading the view.
         
@@ -26,6 +30,7 @@ class ArticleListViewController: UIViewController {
         setupListeners()
     }
     
+    //here setting the listners to receive events for UI UPdate
     func setupListeners() {
         disposeBag = DisposeBag()
         

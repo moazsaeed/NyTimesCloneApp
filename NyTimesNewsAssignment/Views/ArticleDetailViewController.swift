@@ -28,11 +28,7 @@ class ArticleDetailViewController: UIViewController {
         setupListeners()
     }
     
-    func setupViews() {
-//        scrollView.scrolldir
-        scrollView.isScrollEnabled = true
-    }
-    
+    //here setting the listners to receive events for UI UPdate
     func setupListeners() {
         disposeBag = DisposeBag()
         

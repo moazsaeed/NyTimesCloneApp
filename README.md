@@ -9,6 +9,7 @@ Covers the following:
 
 * Discussions
 * Screenshots
+* Architecture at a Glance
 * Requirements
 * Architecture
 * ThirdParty Libraries
@@ -27,6 +28,10 @@ I have used `UIKit` for user interface creation, `RxSwift` allows me to use feat
 |             Articles List         |         ArticleDetail          | 
 |---------------------------------|------------------------------|
 |![Demo]()|![Demo]()|
+
+## Architecture at a Glance
+
+![Architecture at a Glance]()
 
 ## Requirements
 
