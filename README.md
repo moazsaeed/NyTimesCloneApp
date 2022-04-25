@@ -8,6 +8,7 @@ Their news detail api is not available so shown max news detail what I received 
 Covers the following:
 
 * Discussions
+* Screenshots
 * Requirements
 * Architecture
 * ThirdParty Libraries
@@ -20,6 +21,12 @@ Covers the following:
 ## Discussions
 
 I have used `UIKit` for user interface creation, `RxSwift` allows me to use features like Observable, Relays, publishers and subscribers. Used `MVVM` Architectural design pattern is for modularized, maintainable and decoupled Codeing, easy to test, Bindings make UI updates easier to handle etc.
+
+## Screenshots
+
+|             Articles List         |         ArticleDetail          | 
+|---------------------------------|------------------------------|
+|![Demo]()|![Demo]()|
 
 ## Requirements
 
