@@ -6,11 +6,16 @@
 //
 
 import XCTest
+@testable import NyTimesNewsAssignment
 
-class ArticlesResponseTests: XCTestCase {
+class ArticlesResponseTests: XCTestCase, DecodableTestCase {
+    
+    var systemUnderTest: ArticlesSearchResponse!
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
+        try super.setUpWithError()
+        try!
     }
 
     override func tearDownWithError() throws {

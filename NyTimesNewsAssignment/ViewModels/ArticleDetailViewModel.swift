@@ -42,8 +42,7 @@ class ArticleDetailViewModel: ArticleDetailViewModelType {
         self.article.accept(article)
         title.accept(article.title)
         snippet.accept(article.snippet)
-//        leadParagraph.accept(article.leadParagraph)
-        leadParagraph.accept("as a skjask;lfj ask;fj as;kfj as fa s j;alskfj a;slkf  a;lksfj a;slk jaksl fa;slfj a;lskj fa;kls dfja;lsj Will attempt to recover by breaking constraint Will attempt to recover by breaking constraint Will attempt to recover by breaking constas a skjask;lfj ask;fj as;kfj as fa s j;alskfj a;slkf  a;lksfj a;slk jaksl fa;slfj a;lskj fa;kls dfja;lsj Will raint Wt Will attempt to recover by bt Will attempt to recover by bill attempt to recover by breaking constraint ake a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.")
+        leadParagraph.accept(article.leadParagraph)
         
         if let mediItem = article.media?.filter( { $0.mediaType == "tmagSF" }).first, let urlPath = mediItem.url {
             imageUrl.accept(urlPath)
