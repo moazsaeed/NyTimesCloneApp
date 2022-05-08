@@ -69,6 +69,8 @@ class ArticleListViewModel: ArticleListViewModelType {
         let nextArticlesViewModels = convertArticlesToArticleListTableViewCellViewModels(articles: articles)
         var oldValues = articleCellViewModels.value
         oldValues.append(contentsOf: nextArticlesViewModels)
+        let images = oldValues.map({$0.imageUrl.value})
+        print(images)
         articleCellViewModels.accept(oldValues)
     }
     

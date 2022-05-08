@@ -37,7 +37,7 @@ class ArticleListTableViewCell: UITableViewCell {
     
     public override func prepareForReuse() {
         super.prepareForReuse()
-        
+        self.articleImageView.image = UIImage(named: "sample0")
         disposeBag = nil
     }
     

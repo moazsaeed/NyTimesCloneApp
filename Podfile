@@ -5,11 +5,11 @@ target 'NyTimesNewsAssignment' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for SpaceXLaunch
+  
   pod 'RxSwift'
   pod 'RxCocoa'
   pod 'Alamofire', '~> 5.2'
-  pod 'AlamofireImage', '~> 4.1'
+  pod 'AlamofireImage'
   pod 'KRProgressHUD'
 
   target 'NyTimesNewsAssignmentTests' do

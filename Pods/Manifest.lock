@@ -14,7 +14,7 @@ PODS:
 
 DEPENDENCIES:
   - Alamofire (~> 5.2)
-  - AlamofireImage (~> 4.1)
+  - AlamofireImage
   - KRProgressHUD
   - RxCocoa
   - RxSwift
@@ -38,6 +38,6 @@ SPEC CHECKSUMS:
   RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
   RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
 
-PODFILE CHECKSUM: 9e5a40a4c4a29c885161f22b90984333385875aa
+PODFILE CHECKSUM: 6c5d69286a1399d6cd02ede12344ec73dcb4ec67
 
 COCOAPODS: 1.11.2
