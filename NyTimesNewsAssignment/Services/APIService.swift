@@ -9,14 +9,7 @@ import Alamofire
 
 protocol APIServiceProtocol {
     
-    @discardableResult func fetchArticlesWithSearchKeyword(_ searchKeyword:String, page:Int, completion: @escaping (ArticlesSearchResponse?, Error?, AFDataResponse<Any>?) -> Void) -> DataRequestProtocol
-}
-
-extension APIServiceProtocol {
-    
-    @discardableResult func fetchArticlesWithSearchKeyword(_ searchKeyword:String = "dubai", page:Int = 0, completion: @escaping (ArticlesSearchResponse?, Error?, AFDataResponse<Any>?) -> Void) -> DataRequestProtocol {
-        return fetchArticlesWithSearchKeyword(searchKeyword, page: page,completion: completion)
-    }
+    @discardableResult func fetch<T: Decodable>(of type: T.Type, _ apiService: ApiService, completion: @escaping (T?, Error?, AFDataResponse<Any>?) -> Void) -> DataRequestProtocol
 }
 
 class APIService: APIServiceProtocol {
@@ -27,12 +20,9 @@ class APIService: APIServiceProtocol {
         self.sessionManager = sessionManager
     }
     
-    
-    @discardableResult func fetchArticlesWithSearchKeyword(_ searchKeyword: String, page: Int, completion: @escaping (ArticlesSearchResponse?, Error?, AFDataResponse<Any>?) -> Void) -> DataRequestProtocol {
+    @discardableResult func fetch<T: Decodable>(of type: T.Type, _ apiService: ApiService, completion: @escaping (T?, Error?, AFDataResponse<Any>?) -> Void) -> DataRequestProtocol {
         
-        let articleSearchApi = ArticlesAPI.articlesSearch(parameters: ["q": searchKeyword, "page": page])
-        
-        return sessionManager.request(service: articleSearchApi)
+        return sessionManager.request(service: apiService)
             .responseJSON { responseData in
 
                 guard let data = responseData.data else {
@@ -40,13 +30,12 @@ class APIService: APIServiceProtocol {
                 }
                 let decoder = JSONDecoder()
                 do {
-                    let articleResponse = try decoder.decode(ArticlesSearchResponse.self, from: data)
-                    completion(articleResponse, nil, responseData)
+                    let responseObject = try decoder.decode(T.self, from: data)
+                    completion(responseObject, nil, responseData)
                 } catch {
                     completion(nil, error, responseData)
                 }
             }
-        
     }
 }
 

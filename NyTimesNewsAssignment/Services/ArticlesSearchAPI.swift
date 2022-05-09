@@ -8,11 +8,13 @@
 import Foundation
 import Alamofire
 
-enum ArticlesAPI {
+enum ApiService {
+    typealias ModelType = Decodable?
     case articlesSearch(parameters:Parameters?)
 }
 
-extension ArticlesAPI: RequestableAPI {
+extension ApiService: RequestableAPI {
+    
     
     var baseURL: String {
         return APIConstants.BASE_SERVER_URL

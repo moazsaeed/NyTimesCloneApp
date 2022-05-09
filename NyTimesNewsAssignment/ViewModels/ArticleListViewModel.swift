@@ -41,7 +41,8 @@ class ArticleListViewModel: ArticleListViewModelType {
             isLoadingNextPage.accept(true)
         }
         
-        apiService.fetchArticlesWithSearchKeyword("dubai", page: pageNumber) { [weak self] articleResponse, error, responseData in
+        let articleSearchAPI = ApiService.articlesSearch(parameters: ["q": "dubai", "page": pageNumber])
+        apiService.fetch(of: ArticlesSearchResponse.self, articleSearchAPI) { [weak self] articleResponse, error, responseData in
                 
             guard let strongSelf = self else { return }
             if strongSelf.pageNumber < 2 {

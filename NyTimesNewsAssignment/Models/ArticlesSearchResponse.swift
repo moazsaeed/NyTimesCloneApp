@@ -7,9 +7,11 @@
 
 import Foundation
 
-struct ArticlesSearchResponse: Equatable {
-    
-    
+struct ArticlesSearchResponse: Decodable, Equatable {
+    let articles:[Article]?
+}
+
+extension ArticlesSearchResponse {
     enum ResponseCodingKeys: String, CodingKey {
         case response = "response"
     }
@@ -17,11 +19,6 @@ struct ArticlesSearchResponse: Equatable {
     enum DocsCodingKeys: String, CodingKey {
         case docs = "docs"
     }
-    
-    let articles:[Article]?
-}
-
-extension ArticlesSearchResponse: Decodable {
     
     init(from decoder: Decoder) throws {
         let container = try decoder.container(keyedBy: ResponseCodingKeys.self)
