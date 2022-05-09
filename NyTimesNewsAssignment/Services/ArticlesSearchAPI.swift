@@ -8,60 +8,40 @@
 import Foundation
 import Alamofire
 
-enum ApiService {
-    typealias ModelType = Decodable?
-    case articlesSearch(parameters:Parameters?)
-}
 
-extension ApiService: RequestableAPI {
+struct ArticleSearchAPIData: APIData {
     
+    var parameters: Parameters?
+    
+    init(requestParameters: Parameters?) {
+        parameters = requestParameters
+        if parameters == nil {
+            parameters = Parameters()
+        }
+        parameters?["api-key"] = APIConstants.API_KEY
+    }
     
     var baseURL: String {
         return APIConstants.BASE_SERVER_URL
     }
 
     var path: String {
-        switch self {
-        case .articlesSearch(_):
-            let articlesSearchPath = "\(APIConstants.SEARCH)\(APIConstants.API_VERSION)\(APIConstants.ARTICLES)"
-            return articlesSearchPath
-        }
+        return "\(APIConstants.SEARCH)\(APIConstants.API_VERSION)\(APIConstants.ARTICLES)"
     }
     
     var fullURL: URLConvertible {
         return baseURL + path
     }
 
-    var method: HTTPMethod {
-        
-        switch self {
-        case .articlesSearch(_):
-            return .get
-        }
-    }
-    
-    var parameters: Parameters? {
-        switch self {
-        case .articlesSearch(let params):
-            guard var paramsTemp = params else { return nil }
-            paramsTemp["api-key"] = APIConstants.API_KEY
-            return paramsTemp
-        }
-        
+    var method: HTTPMethod? {
+        return .get
     }
 
     var headers: HTTPHeaders? {
-        switch self {
-        case .articlesSearch(_):
-            return nil
-        }
+        return nil
     }
     
-    var encoding: ParameterEncoding {
-        switch self {
-        case .articlesSearch(_):
-            return URLEncoding.default
-        }
-        
+    var encoding: ParameterEncoding? {
+        return URLEncoding.default
     }
 }

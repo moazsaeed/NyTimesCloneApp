@@ -9,7 +9,7 @@ import Alamofire
 
 protocol APIServiceProtocol {
     
-    @discardableResult func fetch<T: Decodable>(of type: T.Type, _ apiService: ApiService, completion: @escaping (T?, Error?, AFDataResponse<Any>?) -> Void) -> DataRequestProtocol
+    @discardableResult func fetch<T: Decodable>(of type: T.Type, _ apiService: APIData, completion: @escaping (T?, Error?, AFDataResponse<Any>?) -> Void) -> DataRequestProtocol
 }
 
 class APIService: APIServiceProtocol {
@@ -20,11 +20,11 @@ class APIService: APIServiceProtocol {
         self.sessionManager = sessionManager
     }
     
-    @discardableResult func fetch<T: Decodable>(of type: T.Type, _ apiService: ApiService, completion: @escaping (T?, Error?, AFDataResponse<Any>?) -> Void) -> DataRequestProtocol {
+    @discardableResult func fetch<T: Decodable>(of type: T.Type, _ apiData: APIData, completion: @escaping (T?, Error?, AFDataResponse<Any>?) -> Void) -> DataRequestProtocol {
         
-        return sessionManager.request(service: apiService)
+        return sessionManager.request(apiData: apiData)
             .responseJSON { responseData in
-
+                
                 guard let data = responseData.data else {
                     return
                 }
@@ -40,12 +40,12 @@ class APIService: APIServiceProtocol {
 }
 
 protocol SessionProtocol {
-    func request(service: RequestableAPI) -> DataRequestProtocol
+    func request(apiData: APIData) -> DataRequestProtocol
 }
 
 extension Alamofire.Session: SessionProtocol {
-    func request(service: RequestableAPI) -> DataRequestProtocol {
-        return request(service.fullURL, method: service.method, parameters: service.parameters, encoding: service.encoding, headers: service.headers, interceptor: nil, requestModifier: nil)
+    func request(apiData: APIData) -> DataRequestProtocol {
+        return request(apiData.fullURL, method: apiData.method, parameters: apiData.parameters, encoding: apiData.encoding, headers: apiData.headers, interceptor: nil, requestModifier: nil)
     }
 }
 

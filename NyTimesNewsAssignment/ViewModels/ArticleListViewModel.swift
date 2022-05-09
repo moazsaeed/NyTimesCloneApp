@@ -40,8 +40,7 @@ class ArticleListViewModel: ArticleListViewModelType {
         } else {
             isLoadingNextPage.accept(true)
         }
-        
-        let articleSearchAPI = ApiService.articlesSearch(parameters: ["q": "dubai", "page": pageNumber])
+        let articleSearchAPI = ArticleSearchAPIData(requestParameters: ["q": "dubai", "page": pageNumber])
         apiService.fetch(of: ArticlesSearchResponse.self, articleSearchAPI) { [weak self] articleResponse, error, responseData in
                 
             guard let strongSelf = self else { return }
